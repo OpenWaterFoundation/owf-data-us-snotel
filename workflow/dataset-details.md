@@ -1,7 +1,13 @@
 ## Overview ##
 
-This dataset contains the workflow to create SNOTEL station GeoJSON files for the US and by state.
+This dataset contains SNOTEL station GeoJSON files by state and for the US.
 The initial focus is simply to create layer files that can be used in web applications.
+
+Feedback from NRCS staff is that querying the NRCS web services for
+SNOTEL time series, and then using the station locations for the layer,
+is currently the best way to generate a layer.
+Because only the recent 3 years of data is queried for time series,
+historical stations may not be included in the layer.
 
 ## Downloads ##
 

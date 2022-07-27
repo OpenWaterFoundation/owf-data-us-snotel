@@ -4,11 +4,15 @@ StartLog(LogFile="results/01-create-snotel-stations-layer.tstool.log")
 # - attribute contains link to typical SNOTEL station graph
 # - NRCS does not provide a GeoJSON layer so have to create from web service
 #
+# Loop through states that have SNOTEL stations and create station files for each state.
+ReadTableFromDelimitedFile(TableID="States",InputFile="state-list.csv",TextColumns="FipsStateNumber")
+For(Name="For_States",IteratorProperty="State",TableID="States",TableColumn="State",TablePropertyMap="StateLower:StateLower,FipsStateNumber:FipsStateNumber")
+#
 # Download a couple of months of data from a recent winter period:
 # - should ensure that the station list is pretty complete
 # - this is a little slow, but only need to run periodically
 # - set the alias to station ID followed by '-SNOTEL', which is used in iteration to process time series
-ReadNrcsAwdb(DataStore="NrcsAwdb",Interval=Hour,States="CO",Networks="SNTL",Elements="WTEQ",InputStart="2020-01-01",InputEnd="2022-02-28",Alias="%L-SNOTEL")
+ReadNrcsAwdb(DataStore="NrcsAwdb",Interval=Hour,States="${State}",Networks="SNTL",Elements="WTEQ",InputStart="2020-01-01",InputEnd="2022-02-28",Alias="%L-SNOTEL")
 #
 # Loop through the time series and add properties for NRCS websites.
 # - the time series alias is used to set new properties for URLs used in the website links
@@ -20,5 +24,13 @@ SetTimeSeriesProperty(TSList=AllMatchingTSID,TSID="${tsalias}",PropertyName="Gra
 EndFor(Name="For_stations")
 SetDebugLevel(ScreenLevel=0,LogFileLevel=0)
 #
-# Create the GeoJSON file with properties that are useful.
-WriteTimeSeriesToGeoJSON(OutputFile="../data/co-snotel-stations.geojson",LongitudeProperty="longitude",LatitudeProperty="latitude",CoordinatePrecision=5,ExcludeProperties="actonId,endDate,fipsCountyCd,fipsStateNumber,fipsCountyCd,fipsCountryCd,hud,dataPrecision,dataSource,ordinal,heightDepthValue,heightDepthUnitCd,stationDataTimeZone,stationTimeZone")
+# Create the GeoJSON file with properties that are useful:
+# - select the time series for the specific state to write
+SelectTimeSeries(PropertyName="fipsStateNumber",PropertyCriterion="Matches",PropertyValue="${FipsStateNumber}")
+WriteTimeSeriesToGeoJSON(TSList=SelectedTS,OutputFile="../data/${StateLower}-snotel-stations.geojson",LongitudeProperty="longitude",LatitudeProperty="latitude",CoordinatePrecision=5,ExcludeProperties="actonId,endDate,fipsCountyCd,fipsStateNumber,fipsCountyCd,fipsCountryCd,hud,dataPrecision,dataSource,ordinal,heightDepthValue,heightDepthUnitCd,stationDataTimeZone,stationTimeZone")
+#
+# End of states loop.
+EndFor(Name="For_states")
+#
+# Output all the stations in the US layer.
+WriteTimeSeriesToGeoJSON(OutputFile="../data/us-snotel-stations.geojson",LongitudeProperty="longitude",LatitudeProperty="latitude",CoordinatePrecision=5,ExcludeProperties="actonId,endDate,fipsCountyCd,fipsStateNumber,fipsCountyCd,fipsCountryCd,hud,dataPrecision,dataSource,ordinal,heightDepthValue,heightDepthUnitCd,stationDataTimeZone,stationTimeZone")

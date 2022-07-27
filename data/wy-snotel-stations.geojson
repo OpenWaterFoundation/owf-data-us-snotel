@@ -1,0 +1,2718 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [-110.92783, 41.00368, -104.41057, 44.94307],
+  "features": [
+    {
+      "type": "Feature",
+      "bbox": [-107.84442, 44.80070, -107.84442, 44.80070],
+      "properties": {
+        "stationTriplet": "309:WY:SNTL",
+        "state": "WY",
+        "stationId": "309",
+        "networkCode": "SNTL",
+        "name": "Bald Mtn.",
+        "shefId": "BLDW4",
+        "beginDate": "1975-10-01 00:00:00",
+        "countyName": "Big Horn",
+        "elevation": 9380.0,
+        "huc": "100800100501",
+        "longitude": -107.84442,
+        "latitude": 44.8007,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=309",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Bald Mtn..html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.84442, 44.80070]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.44544, 43.94019, -110.44544, 43.94019],
+      "properties": {
+        "stationTriplet": "314:WY:SNTL",
+        "state": "WY",
+        "stationId": "314",
+        "networkCode": "SNTL",
+        "name": "Base Camp",
+        "shefId": "BSCW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Teton",
+        "elevation": 7060.0,
+        "huc": "170401010304",
+        "longitude": -110.44544,
+        "latitude": 43.94019,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=314",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Base Camp.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.44544, 43.94019]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.26674, 41.05402, -107.26674, 41.05402],
+      "properties": {
+        "stationTriplet": "317:WY:SNTL",
+        "state": "WY",
+        "stationId": "317",
+        "networkCode": "SNTL",
+        "name": "Battle Mountain",
+        "shefId": "BTLW4",
+        "beginDate": "1985-10-01 00:00:00",
+        "countyName": "Carbon",
+        "elevation": 7498.0,
+        "huc": "140500030109",
+        "longitude": -107.26674,
+        "latitude": 41.05402,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=317",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Battle Mountain.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.26674, 41.05402]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.06135, 43.88743, -107.06135, 43.88743],
+      "properties": {
+        "stationTriplet": "325:WY:SNTL",
+        "state": "WY",
+        "stationId": "325",
+        "networkCode": "SNTL",
+        "name": "Bear Trap Meadow",
+        "shefId": "BTNW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Johnson",
+        "elevation": 8200.0,
+        "huc": "100902010205",
+        "longitude": -107.06135,
+        "latitude": 43.88743,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=325",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Bear Trap Meadow.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.06135, 43.88743]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.56743, 44.94307, -109.56743, 44.94307],
+      "properties": {
+        "stationTriplet": "326:WY:SNTL",
+        "state": "WY",
+        "stationId": "326",
+        "networkCode": "SNTL",
+        "name": "Beartooth Lake",
+        "shefId": "BLTW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 9360.0,
+        "huc": "100700060206",
+        "longitude": -109.56743,
+        "latitude": 44.94307,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=326",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Beartooth Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.56743, 44.94307]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.56743, 44.94307, -109.56743, 44.94307],
+      "properties": {
+        "stationTriplet": "326:WY:SNTL",
+        "state": "WY",
+        "stationId": "326",
+        "networkCode": "SNTL",
+        "name": "Beartooth Lake",
+        "shefId": "BLTW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 9360.0,
+        "huc": "100700060206",
+        "longitude": -109.56743,
+        "latitude": 44.94307,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=326",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Beartooth Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.56743, 44.94307]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.20068, 44.57924, -107.20068, 44.57924],
+      "properties": {
+        "stationTriplet": "931:WY:SNTL",
+        "state": "WY",
+        "stationId": "931",
+        "networkCode": "SNTL",
+        "name": "Big Goose",
+        "shefId": "BGEW4",
+        "beginDate": "1998-07-22 00:00:00",
+        "countyName": "Sheridan",
+        "elevation": 7990.0,
+        "huc": "100901010103",
+        "longitude": -107.20068,
+        "latitude": 44.57924,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=931",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Big Goose.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.20068, 44.57924]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.25965, 42.64580, -109.25965, 42.64580],
+      "properties": {
+        "stationTriplet": "342:WY:SNTL",
+        "state": "WY",
+        "stationId": "342",
+        "networkCode": "SNTL",
+        "name": "Big Sandy Opening",
+        "shefId": "BGSW4",
+        "beginDate": "1963-03-01 00:00:00",
+        "countyName": "Sublette",
+        "elevation": 9080.0,
+        "huc": "140401040101",
+        "longitude": -109.25965,
+        "latitude": 42.6458,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=342",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Big Sandy Opening.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.25965, 42.64580]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.71400, 41.05623, -106.71400, 41.05623],
+      "properties": {
+        "stationTriplet": "1119:WY:SNTL",
+        "state": "WY",
+        "stationId": "1119",
+        "networkCode": "SNTL",
+        "name": "Blackhall Mtn",
+        "shefId": "BLHW4",
+        "beginDate": "2009-08-07 00:00:00",
+        "countyName": "Carbon",
+        "elevation": 9839.0,
+        "huc": "101800020504",
+        "longitude": -106.714,
+        "latitude": 41.05623,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1119",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Blackhall Mtn.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.71400, 41.05623]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.79333, 44.37667, -109.79333, 44.37667],
+      "properties": {
+        "stationTriplet": "350:WY:SNTL",
+        "state": "WY",
+        "stationId": "350",
+        "networkCode": "SNTL",
+        "name": "Blackwater",
+        "shefId": "BLWW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 9780.0,
+        "huc": "100800120209",
+        "longitude": -109.79333,
+        "latitude": 44.37667,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=350",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Blackwater.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.79333, 44.37667]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.79333, 44.37667, -109.79333, 44.37667],
+      "properties": {
+        "stationTriplet": "350:WY:SNTL",
+        "state": "WY",
+        "stationId": "350",
+        "networkCode": "SNTL",
+        "name": "Blackwater",
+        "shefId": "BLWW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 9780.0,
+        "huc": "100800120209",
+        "longitude": -109.79333,
+        "latitude": 44.37667,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=350",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Blackwater.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.79333, 44.37667]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.60973, 42.96400, -110.60973, 42.96400],
+      "properties": {
+        "stationTriplet": "353:WY:SNTL",
+        "state": "WY",
+        "stationId": "353",
+        "networkCode": "SNTL",
+        "name": "Blind Bull Sum",
+        "shefId": "BBSW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Sublette",
+        "elevation": 8650.0,
+        "huc": "140401010402",
+        "longitude": -110.60973,
+        "latitude": 42.964,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=353",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Blind Bull Sum.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.60973, 42.96400]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.58110, 44.67888, -107.58110, 44.67888],
+      "properties": {
+        "stationTriplet": "358:WY:SNTL",
+        "state": "WY",
+        "stationId": "358",
+        "networkCode": "SNTL",
+        "name": "Bone Springs Div",
+        "shefId": "BSDW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Sheridan",
+        "elevation": 9350.0,
+        "huc": "100800100102",
+        "longitude": -107.5811,
+        "latitude": 44.67888,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=358",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Bone Springs Div.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.58110, 44.67888]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.23038, 41.36038, -106.23038, 41.36038],
+      "properties": {
+        "stationTriplet": "367:WY:SNTL",
+        "state": "WY",
+        "stationId": "367",
+        "networkCode": "SNTL",
+        "name": "Brooklyn Lake",
+        "shefId": "BKLW4",
+        "beginDate": "1962-10-01 00:00:00",
+        "countyName": "Albany",
+        "elevation": 10250.0,
+        "huc": "101800100502",
+        "longitude": -106.23038,
+        "latitude": 41.36038,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=367",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Brooklyn Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.23038, 41.36038]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.52917, 44.78765, -107.52917, 44.78765],
+      "properties": {
+        "stationTriplet": "377:WY:SNTL",
+        "state": "WY",
+        "stationId": "377",
+        "networkCode": "SNTL",
+        "name": "Burgess Junction",
+        "shefId": "BRJW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Sheridan",
+        "elevation": 7880.0,
+        "huc": "100901010202",
+        "longitude": -107.52917,
+        "latitude": 44.78765,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=377",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Burgess Junction.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.52917, 44.78765]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.67021, 43.69733, -109.67021, 43.69733],
+      "properties": {
+        "stationTriplet": "379:WY:SNTL",
+        "state": "WY",
+        "stationId": "379",
+        "networkCode": "SNTL",
+        "name": "Burroughs Creek",
+        "shefId": "BRCW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Fremont",
+        "elevation": 8750.0,
+        "huc": "100800010102",
+        "longitude": -109.67021,
+        "latitude": 43.69733,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=379",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Burroughs Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.67021, 43.69733]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.51084, 44.71961, -110.51084, 44.71961],
+      "properties": {
+        "stationTriplet": "384:WY:SNTL",
+        "state": "WY",
+        "stationId": "384",
+        "networkCode": "SNTL",
+        "name": "Canyon",
+        "shefId": "CANW4",
+        "beginDate": "1960-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 7870.0,
+        "huc": "100700010705",
+        "longitude": -110.51084,
+        "latitude": 44.71961,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=384",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Canyon.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.51084, 44.71961]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.31789, 42.73362, -106.31789, 42.73362],
+      "properties": {
+        "stationTriplet": "389:WY:SNTL",
+        "state": "WY",
+        "stationId": "389",
+        "networkCode": "SNTL",
+        "name": "Casper Mtn.",
+        "shefId": "CSPW4",
+        "beginDate": "1962-01-01 00:00:00",
+        "countyName": "Natrona",
+        "elevation": 7920.0,
+        "huc": "101800070804",
+        "longitude": -106.31789,
+        "latitude": 42.73362,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=389",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Casper Mtn..html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.31789, 42.73362]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.31789, 42.73362, -106.31789, 42.73362],
+      "properties": {
+        "stationTriplet": "389:WY:SNTL",
+        "state": "WY",
+        "stationId": "389",
+        "networkCode": "SNTL",
+        "name": "Casper Mtn.",
+        "shefId": "CSPW4",
+        "beginDate": "1962-01-01 00:00:00",
+        "countyName": "Natrona",
+        "elevation": 7920.0,
+        "huc": "101800070804",
+        "longitude": -106.31789,
+        "latitude": 42.73362,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=389",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Casper Mtn..html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.31789, 42.73362]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.31789, 42.73362, -106.31789, 42.73362],
+      "properties": {
+        "stationTriplet": "389:WY:SNTL",
+        "state": "WY",
+        "stationId": "389",
+        "networkCode": "SNTL",
+        "name": "Casper Mtn.",
+        "shefId": "CSPW4",
+        "beginDate": "1962-01-01 00:00:00",
+        "countyName": "Natrona",
+        "elevation": 7920.0,
+        "huc": "101800070804",
+        "longitude": -106.31789,
+        "latitude": 42.73362,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=389",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Casper Mtn..html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.31789, 42.73362]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.37740, 43.67480, -109.37740, 43.67480],
+      "properties": {
+        "stationTriplet": "1130:WY:SNTL",
+        "state": "WY",
+        "stationId": "1130",
+        "networkCode": "SNTL",
+        "name": "Castle Creek",
+        "shefId": "CCSW4",
+        "beginDate": "2010-08-18 00:00:00",
+        "countyName": "Fremont",
+        "elevation": 8400.0,
+        "huc": "100800010401",
+        "longitude": -109.3774,
+        "latitude": 43.6748,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1130",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Castle Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.37740, 43.67480]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.23101, 41.23843, -106.23101, 41.23843],
+      "properties": {
+        "stationTriplet": "1046:WY:SNTL",
+        "state": "WY",
+        "stationId": "1046",
+        "networkCode": "SNTL",
+        "name": "Cinnabar Park",
+        "shefId": "CINW4",
+        "beginDate": "1999-06-13 00:00:00",
+        "countyName": "Albany",
+        "elevation": 9707.0,
+        "huc": "101800100503",
+        "longitude": -106.23101,
+        "latitude": 41.23843,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1046",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Cinnabar Park.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.23101, 41.23843]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.06057, 44.40343, -107.06057, 44.40343],
+      "properties": {
+        "stationTriplet": "402:WY:SNTL",
+        "state": "WY",
+        "stationId": "402",
+        "networkCode": "SNTL",
+        "name": "Cloud Peak Reservoir",
+        "shefId": "CPKW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Johnson",
+        "elevation": 9860.0,
+        "huc": "100902060301",
+        "longitude": -107.06057,
+        "latitude": 44.40343,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=402",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Cloud Peak Reservoir.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.06057, 44.40343]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.06057, 44.40343, -107.06057, 44.40343],
+      "properties": {
+        "stationTriplet": "402:WY:SNTL",
+        "state": "WY",
+        "stationId": "402",
+        "networkCode": "SNTL",
+        "name": "Cloud Peak Reservoir",
+        "shefId": "CPKW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Johnson",
+        "elevation": 9860.0,
+        "huc": "100902060301",
+        "longitude": -107.06057,
+        "latitude": 44.40343,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=402",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Cloud Peak Reservoir.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.06057, 44.40343]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.44585, 43.27676, -109.44585, 43.27676],
+      "properties": {
+        "stationTriplet": "405:WY:SNTL",
+        "state": "WY",
+        "stationId": "405",
+        "networkCode": "SNTL",
+        "name": "Cold Springs",
+        "shefId": "COSW4",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Fremont",
+        "elevation": 9630.0,
+        "huc": "100800010702",
+        "longitude": -109.44585,
+        "latitude": 43.27676,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=405",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Cold Springs.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.44585, 43.27676]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.44585, 43.27676, -109.44585, 43.27676],
+      "properties": {
+        "stationTriplet": "405:WY:SNTL",
+        "state": "WY",
+        "stationId": "405",
+        "networkCode": "SNTL",
+        "name": "Cold Springs",
+        "shefId": "COSW4",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Fremont",
+        "elevation": 9630.0,
+        "huc": "100800010702",
+        "longitude": -109.44585,
+        "latitude": 43.27676,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=405",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Cold Springs.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.44585, 43.27676]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-104.41057, 44.48632, -104.41057, 44.48632],
+      "properties": {
+        "stationTriplet": "982:WY:SNTL",
+        "state": "WY",
+        "stationId": "982",
+        "networkCode": "SNTL",
+        "name": "Cole Canyon",
+        "shefId": "CLCW4",
+        "beginDate": "2000-06-01 00:00:00",
+        "countyName": "Crook",
+        "elevation": 5910.0,
+        "huc": "101202030302",
+        "longitude": -104.41057,
+        "latitude": 44.48632,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=982",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Cole Canyon.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.41057, 44.48632]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.81482, 42.64590, -110.81482, 42.64590],
+      "properties": {
+        "stationTriplet": "419:WY:SNTL",
+        "state": "WY",
+        "stationId": "419",
+        "networkCode": "SNTL",
+        "name": "Cottonwood Creek",
+        "shefId": "CLWW4",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Lincoln",
+        "elevation": 7670.0,
+        "huc": "170401050102",
+        "longitude": -110.81482,
+        "latitude": 42.6459,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=419",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Cottonwood Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.81482, 42.64590]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.38571, 41.22824, -105.38571, 41.22824],
+      "properties": {
+        "stationTriplet": "1045:WY:SNTL",
+        "state": "WY",
+        "stationId": "1045",
+        "networkCode": "SNTL",
+        "name": "Crow Creek",
+        "shefId": "CRWW4",
+        "beginDate": "2003-08-01 00:00:00",
+        "countyName": "Albany",
+        "elevation": 8335.0,
+        "huc": "101900090104",
+        "longitude": -105.38571,
+        "latitude": 41.22824,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1045",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Crow Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.38571, 41.22824]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-108.90273, 42.59076, -108.90273, 42.59076],
+      "properties": {
+        "stationTriplet": "923:WY:SNTL",
+        "state": "WY",
+        "stationId": "923",
+        "networkCode": "SNTL",
+        "name": "Deer Park",
+        "shefId": "DPKW4",
+        "beginDate": "1997-08-14 00:00:00",
+        "countyName": "Fremont",
+        "elevation": 9700.0,
+        "huc": "100800030101",
+        "longitude": -108.90273,
+        "latitude": 42.59076,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=923",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Deer Park.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-108.90273, 42.59076]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.15255, 41.30399, -107.15255, 41.30399],
+      "properties": {
+        "stationTriplet": "449:WY:SNTL",
+        "state": "WY",
+        "stationId": "449",
+        "networkCode": "SNTL",
+        "name": "Divide Peak",
+        "shefId": "DVDW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Carbon",
+        "elevation": 8730.0,
+        "huc": "140500030203",
+        "longitude": -107.15255,
+        "latitude": 41.30399,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=449",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Divide Peak.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.15255, 41.30399]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.29537, 44.57462, -107.29537, 44.57462],
+      "properties": {
+        "stationTriplet": "451:WY:SNTL",
+        "state": "WY",
+        "stationId": "451",
+        "networkCode": "SNTL",
+        "name": "Dome Lake",
+        "shefId": "DMLW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Sheridan",
+        "elevation": 8880.0,
+        "huc": "100901010102",
+        "longitude": -107.29537,
+        "latitude": 44.57462,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=451",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Dome Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.29537, 44.57462]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.20230, 43.13097, -110.20230, 43.13097],
+      "properties": {
+        "stationTriplet": "460:WY:SNTL",
+        "state": "WY",
+        "stationId": "460",
+        "networkCode": "SNTL",
+        "name": "East Rim Divide",
+        "shefId": "ERDW4",
+        "beginDate": "1984-10-01 00:00:00",
+        "countyName": "Sublette",
+        "elevation": 7930.0,
+        "huc": "170401030203",
+        "longitude": -110.2023,
+        "latitude": 43.13097,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=460",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//East Rim Divide.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.20230, 43.13097]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.75893, 43.00657, -109.75893, 43.00657],
+      "properties": {
+        "stationTriplet": "468:WY:SNTL",
+        "state": "WY",
+        "stationId": "468",
+        "networkCode": "SNTL",
+        "name": "Elkhart Park G.S.",
+        "shefId": "EKPW4",
+        "beginDate": "1963-10-01 00:00:00",
+        "countyName": "Sublette",
+        "elevation": 9400.0,
+        "huc": "140401020103",
+        "longitude": -109.75893,
+        "latitude": 43.00657,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=468",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Elkhart Park G.S..html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.75893, 43.00657]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.78422, 44.65258, -109.78422, 44.65258],
+      "properties": {
+        "stationTriplet": "472:WY:SNTL",
+        "state": "WY",
+        "stationId": "472",
+        "networkCode": "SNTL",
+        "name": "Evening Star",
+        "shefId": "EVNW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 9200.0,
+        "huc": "100700060301",
+        "longitude": -109.78422,
+        "latitude": 44.65258,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=472",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Evening Star.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.78422, 44.65258]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.78422, 44.65258, -109.78422, 44.65258],
+      "properties": {
+        "stationTriplet": "472:WY:SNTL",
+        "state": "WY",
+        "stationId": "472",
+        "networkCode": "SNTL",
+        "name": "Evening Star",
+        "shefId": "EVNW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 9200.0,
+        "huc": "100700060301",
+        "longitude": -109.78422,
+        "latitude": 44.65258,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=472",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Evening Star.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.78422, 44.65258]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.92783, 43.77933, -110.92783, 43.77933],
+      "properties": {
+        "stationTriplet": "1082:WY:SNTL",
+        "state": "WY",
+        "stationId": "1082",
+        "networkCode": "SNTL",
+        "name": "Grand Targhee",
+        "shefId": "GTHW4",
+        "beginDate": "2006-08-21 00:00:00",
+        "countyName": "Teton",
+        "elevation": 9260.0,
+        "huc": "170402040202",
+        "longitude": -110.92783,
+        "latitude": 43.77933,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1082",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Grand Targhee.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.92783, 43.77933]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.43495, 43.34298, -110.43495, 43.34298],
+      "properties": {
+        "stationTriplet": "497:WY:SNTL",
+        "state": "WY",
+        "stationId": "497",
+        "networkCode": "SNTL",
+        "name": "Granite Creek",
+        "shefId": "GRCW4",
+        "beginDate": "1987-10-01 00:00:00",
+        "countyName": "Teton",
+        "elevation": 6770.0,
+        "huc": "170401030304",
+        "longitude": -110.43495,
+        "latitude": 43.34298,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=497",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Granite Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.43495, 43.34298]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.83435, 44.12612, -110.83435, 44.12612],
+      "properties": {
+        "stationTriplet": "499:WY:SNTL",
+        "state": "WY",
+        "stationId": "499",
+        "networkCode": "SNTL",
+        "name": "Grassy Lake",
+        "shefId": "GRSW4",
+        "beginDate": "1962-09-01 00:00:00",
+        "countyName": "Teton",
+        "elevation": 7265.0,
+        "huc": "170402030202",
+        "longitude": -110.83435,
+        "latitude": 44.12612,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=499",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Grassy Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.83435, 44.12612]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.23977, 43.46643, -107.23977, 43.46643],
+      "properties": {
+        "stationTriplet": "501:WY:SNTL",
+        "state": "WY",
+        "stationId": "501",
+        "networkCode": "SNTL",
+        "name": "Grave Springs",
+        "shefId": "GVSW4",
+        "beginDate": "1991-10-01 00:00:00",
+        "countyName": "Natrona",
+        "elevation": 8550.0,
+        "huc": "100902010103",
+        "longitude": -107.23977,
+        "latitude": 43.46643,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=501",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Grave Springs.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.23977, 43.46643]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.23977, 43.46643, -107.23977, 43.46643],
+      "properties": {
+        "stationTriplet": "501:WY:SNTL",
+        "state": "WY",
+        "stationId": "501",
+        "networkCode": "SNTL",
+        "name": "Grave Springs",
+        "shefId": "GVSW4",
+        "beginDate": "1991-10-01 00:00:00",
+        "countyName": "Natrona",
+        "elevation": 8550.0,
+        "huc": "100902010103",
+        "longitude": -107.23977,
+        "latitude": 43.46643,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=501",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Grave Springs.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.23977, 43.46643]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.12943, 43.38939, -110.12943, 43.38939],
+      "properties": {
+        "stationTriplet": "506:WY:SNTL",
+        "state": "WY",
+        "stationId": "506",
+        "networkCode": "SNTL",
+        "name": "Gros Ventre Summit",
+        "shefId": "GRVW4",
+        "beginDate": "1976-04-01 00:00:00",
+        "countyName": "Teton",
+        "elevation": 8750.0,
+        "huc": "170401020203",
+        "longitude": -110.12943,
+        "latitude": 43.38939,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=506",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Gros Ventre Summit.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.12943, 43.38939]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.12943, 43.38939, -110.12943, 43.38939],
+      "properties": {
+        "stationTriplet": "506:WY:SNTL",
+        "state": "WY",
+        "stationId": "506",
+        "networkCode": "SNTL",
+        "name": "Gros Ventre Summit",
+        "shefId": "GRVW4",
+        "beginDate": "1976-04-01 00:00:00",
+        "countyName": "Teton",
+        "elevation": 8750.0,
+        "huc": "170401020203",
+        "longitude": -110.12943,
+        "latitude": 43.38939,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=506",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Gros Ventre Summit.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.12943, 43.38939]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.87815, 43.38332, -109.87815, 43.38332],
+      "properties": {
+        "stationTriplet": "944:WY:SNTL",
+        "state": "WY",
+        "stationId": "944",
+        "networkCode": "SNTL",
+        "name": "Gunsight Pass",
+        "shefId": "GUNW4",
+        "beginDate": "1998-09-01 00:00:00",
+        "countyName": "Sublette",
+        "elevation": 9820.0,
+        "huc": "170401020102",
+        "longitude": -109.87815,
+        "latitude": 43.38332,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=944",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Gunsight Pass.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.87815, 43.38332]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.67833, 42.14600, -110.67833, 42.14600],
+      "properties": {
+        "stationTriplet": "509:WY:SNTL",
+        "state": "WY",
+        "stationId": "509",
+        "networkCode": "SNTL",
+        "name": "Hams Fork",
+        "shefId": "HMKW4",
+        "beginDate": "1984-10-01 00:00:00",
+        "countyName": "Lincoln",
+        "elevation": 7840.0,
+        "huc": "140401070504",
+        "longitude": -110.67833,
+        "latitude": 42.146,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=509",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Hams Fork.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.67833, 42.14600]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.97983, 44.25602, -106.97983, 44.25602],
+      "properties": {
+        "stationTriplet": "512:WY:SNTL",
+        "state": "WY",
+        "stationId": "512",
+        "networkCode": "SNTL",
+        "name": "Hansen Sawmill",
+        "shefId": "HNSW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Johnson",
+        "elevation": 8360.0,
+        "huc": "100902060101",
+        "longitude": -106.97983,
+        "latitude": 44.25602,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=512",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Hansen Sawmill.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.97983, 44.25602]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.09455, 42.86984, -109.09455, 42.86984],
+      "properties": {
+        "stationTriplet": "525:WY:SNTL",
+        "state": "WY",
+        "stationId": "525",
+        "networkCode": "SNTL",
+        "name": "Hobbs Park",
+        "shefId": "HBBW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Fremont",
+        "elevation": 10100.0,
+        "huc": "100800030207",
+        "longitude": -109.09455,
+        "latitude": 42.86984,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=525",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Hobbs Park.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.09455, 42.86984]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.09455, 42.86984, -109.09455, 42.86984],
+      "properties": {
+        "stationTriplet": "525:WY:SNTL",
+        "state": "WY",
+        "stationId": "525",
+        "networkCode": "SNTL",
+        "name": "Hobbs Park",
+        "shefId": "HBBW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Fremont",
+        "elevation": 10100.0,
+        "huc": "100800030207",
+        "longitude": -109.09455,
+        "latitude": 42.86984,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=525",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Hobbs Park.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.09455, 42.86984]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.67753, 42.30023, -110.67753, 42.30023],
+      "properties": {
+        "stationTriplet": "544:WY:SNTL",
+        "state": "WY",
+        "stationId": "544",
+        "networkCode": "SNTL",
+        "name": "Indian Creek",
+        "shefId": "INCW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Lincoln",
+        "elevation": 9425.0,
+        "huc": "140401070502",
+        "longitude": -110.67753,
+        "latitude": 42.30023,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=544",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Indian Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.67753, 42.30023]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.67753, 42.30023, -110.67753, 42.30023],
+      "properties": {
+        "stationTriplet": "544:WY:SNTL",
+        "state": "WY",
+        "stationId": "544",
+        "networkCode": "SNTL",
+        "name": "Indian Creek",
+        "shefId": "INCW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Lincoln",
+        "elevation": 9425.0,
+        "huc": "140401070502",
+        "longitude": -110.67753,
+        "latitude": 42.30023,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=544",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Indian Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.67753, 42.30023]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.80177, 42.26554, -110.80177, 42.26554],
+      "properties": {
+        "stationTriplet": "554:WY:SNTL",
+        "state": "WY",
+        "stationId": "554",
+        "networkCode": "SNTL",
+        "name": "Kelley R.S.",
+        "shefId": "KLLW4",
+        "beginDate": "1963-10-01 00:00:00",
+        "countyName": "Lincoln",
+        "elevation": 8180.0,
+        "huc": "140401070501",
+        "longitude": -110.80177,
+        "latitude": 42.26554,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=554",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Kelley R.S..html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.80177, 42.26554]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.01662, 43.24930, -110.01662, 43.24930],
+      "properties": {
+        "stationTriplet": "555:WY:SNTL",
+        "state": "WY",
+        "stationId": "555",
+        "networkCode": "SNTL",
+        "name": "Kendall R.S.",
+        "shefId": "KNDW4",
+        "beginDate": "1984-10-01 00:00:00",
+        "countyName": "Sublette",
+        "elevation": 7740.0,
+        "huc": "140401010302",
+        "longitude": -110.01662,
+        "latitude": 43.2493,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=555",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Kendall R.S..html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.01662, 43.24930]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.32163, 43.86067, -109.32163, 43.86067],
+      "properties": {
+        "stationTriplet": "560:WY:SNTL",
+        "state": "WY",
+        "stationId": "560",
+        "networkCode": "SNTL",
+        "name": "Kirwin",
+        "shefId": "KRWW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 9550.0,
+        "huc": "100800090101",
+        "longitude": -109.32163,
+        "latitude": 43.86067,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=560",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Kirwin.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.32163, 43.86067]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.32163, 43.86067, -109.32163, 43.86067],
+      "properties": {
+        "stationTriplet": "560:WY:SNTL",
+        "state": "WY",
+        "stationId": "560",
+        "networkCode": "SNTL",
+        "name": "Kirwin",
+        "shefId": "KRWW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 9550.0,
+        "huc": "100800090101",
+        "longitude": -109.32163,
+        "latitude": 43.86067,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=560",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Kirwin.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.32163, 43.86067]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.86051, 42.43566, -105.86051, 42.43566],
+      "properties": {
+        "stationTriplet": "571:WY:SNTL",
+        "state": "WY",
+        "stationId": "571",
+        "networkCode": "SNTL",
+        "name": "Laprele Creek",
+        "shefId": "LPPW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Converse",
+        "elevation": 8390.0,
+        "huc": "101800071201",
+        "longitude": -105.86051,
+        "latitude": 42.43566,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=571",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Laprele Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.86051, 42.43566]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.08830, 42.58010, -109.08830, 42.58010],
+      "properties": {
+        "stationTriplet": "1134:WY:SNTL",
+        "state": "WY",
+        "stationId": "1134",
+        "networkCode": "SNTL",
+        "name": "Larsen Creek",
+        "shefId": "LCRW4",
+        "beginDate": "2010-08-04 00:00:00",
+        "countyName": "Sublette",
+        "elevation": 9000.0,
+        "huc": "101800060101",
+        "longitude": -109.0883,
+        "latitude": 42.5801,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1134",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Larsen Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.08830, 42.58010]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.08830, 42.58010, -109.08830, 42.58010],
+      "properties": {
+        "stationTriplet": "1134:WY:SNTL",
+        "state": "WY",
+        "stationId": "1134",
+        "networkCode": "SNTL",
+        "name": "Larsen Creek",
+        "shefId": "LCRW4",
+        "beginDate": "2010-08-04 00:00:00",
+        "countyName": "Sublette",
+        "elevation": 9000.0,
+        "huc": "101800060101",
+        "longitude": -109.0883,
+        "latitude": 42.5801,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1134",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Larsen Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.08830, 42.58010]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.66628, 44.20862, -110.66628, 44.20862],
+      "properties": {
+        "stationTriplet": "577:WY:SNTL",
+        "state": "WY",
+        "stationId": "577",
+        "networkCode": "SNTL",
+        "name": "Lewis Lake Divide",
+        "shefId": "LWSW4",
+        "beginDate": "1963-09-01 00:00:00",
+        "countyName": "Teton",
+        "elevation": 7850.0,
+        "huc": "170401010104",
+        "longitude": -110.66628,
+        "latitude": 44.20862,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=577",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Lewis Lake Divide.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.66628, 44.20862]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.17865, 44.54315, -107.17865, 44.54315],
+      "properties": {
+        "stationTriplet": "1131:WY:SNTL",
+        "state": "WY",
+        "stationId": "1131",
+        "networkCode": "SNTL",
+        "name": "Little Goose",
+        "shefId": "LGSW4",
+        "beginDate": "2010-08-04 00:00:00",
+        "countyName": "Johnson",
+        "elevation": 8870.0,
+        "huc": "100901010105",
+        "longitude": -107.17865,
+        "latitude": 44.54315,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1131",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Little Goose.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.17865, 44.54315]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.94284, 41.07051, -106.94284, 41.07051],
+      "properties": {
+        "stationTriplet": "1047:WY:SNTL",
+        "state": "WY",
+        "stationId": "1047",
+        "networkCode": "SNTL",
+        "name": "Little Snake River",
+        "shefId": "LITW4",
+        "beginDate": "2004-07-27 00:00:00",
+        "countyName": "Carbon",
+        "elevation": 8928.0,
+        "huc": "140500030103",
+        "longitude": -106.94284,
+        "latitude": 41.07051,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1047",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Little Snake River.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.94284, 41.07051]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.75200, 43.50278, -109.75200, 43.50278],
+      "properties": {
+        "stationTriplet": "585:WY:SNTL",
+        "state": "WY",
+        "stationId": "585",
+        "networkCode": "SNTL",
+        "name": "Little Warm",
+        "shefId": "LTWW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Fremont",
+        "elevation": 9370.0,
+        "huc": "100800010212",
+        "longitude": -109.752,
+        "latitude": 43.50278,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=585",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Little Warm.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.75200, 43.50278]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.14007, 43.17387, -110.14007, 43.17387],
+      "properties": {
+        "stationTriplet": "597:WY:SNTL",
+        "state": "WY",
+        "stationId": "597",
+        "networkCode": "SNTL",
+        "name": "Loomis Park",
+        "shefId": "LOPW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Sublette",
+        "elevation": 8240.0,
+        "huc": "140401010201",
+        "longitude": -110.14007,
+        "latitude": 43.17387,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=597",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Loomis Park.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.14007, 43.17387]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.24019, 44.30160, -109.24019, 44.30160],
+      "properties": {
+        "stationTriplet": "616:WY:SNTL",
+        "state": "WY",
+        "stationId": "616",
+        "networkCode": "SNTL",
+        "name": "Marquette",
+        "shefId": "MRQW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 8760.0,
+        "huc": "100800130303",
+        "longitude": -109.24019,
+        "latitude": 44.3016,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=616",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Marquette.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.24019, 44.30160]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.34697, 41.37833, -106.34697, 41.37833],
+      "properties": {
+        "stationTriplet": "1196:WY:SNTL",
+        "state": "WY",
+        "stationId": "1196",
+        "networkCode": "SNTL",
+        "name": "Med Bow",
+        "shefId": "MBSW4",
+        "beginDate": "2012-08-15 00:00:00",
+        "countyName": "Carbon",
+        "elevation": 10512.0,
+        "huc": "101800040302",
+        "longitude": -106.34697,
+        "latitude": 41.37833,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1196",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Med Bow.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.34697, 41.37833]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.18138, 43.62728, -107.18138, 43.62728],
+      "properties": {
+        "stationTriplet": "625:WY:SNTL",
+        "state": "WY",
+        "stationId": "625",
+        "networkCode": "SNTL",
+        "name": "Middle Powder",
+        "shefId": "MDDW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Washakie",
+        "elevation": 7760.0,
+        "huc": "100800080205",
+        "longitude": -107.18138,
+        "latitude": 43.62728,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=625",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Middle Powder.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.18138, 43.62728]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.18138, 43.62728, -107.18138, 43.62728],
+      "properties": {
+        "stationTriplet": "625:WY:SNTL",
+        "state": "WY",
+        "stationId": "625",
+        "networkCode": "SNTL",
+        "name": "Middle Powder",
+        "shefId": "MDDW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Washakie",
+        "elevation": 7760.0,
+        "huc": "100800080205",
+        "longitude": -107.18138,
+        "latitude": 43.62728,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=625",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Middle Powder.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.18138, 43.62728]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.94947, 43.11265, -109.94947, 43.11265],
+      "properties": {
+        "stationTriplet": "661:WY:SNTL",
+        "state": "WY",
+        "stationId": "661",
+        "networkCode": "SNTL",
+        "name": "New Fork Lake",
+        "shefId": "NFLW4",
+        "beginDate": "1984-10-01 00:00:00",
+        "countyName": "Sublette",
+        "elevation": 8340.0,
+        "huc": "140401020201",
+        "longitude": -109.94947,
+        "latitude": 43.11265,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=661",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//New Fork Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.94947, 43.11265]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.37558, 41.33087, -106.37558, 41.33087],
+      "properties": {
+        "stationTriplet": "668:WY:SNTL",
+        "state": "WY",
+        "stationId": "668",
+        "networkCode": "SNTL",
+        "name": "North French Creek",
+        "shefId": "NFCW4",
+        "beginDate": "1962-09-01 00:00:00",
+        "countyName": "Carbon",
+        "elevation": 10153.0,
+        "huc": "101800020502",
+        "longitude": -106.37558,
+        "latitude": 41.33087,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=668",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//North French Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.37558, 41.33087]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.96926, 41.15426, -106.96926, 41.15426],
+      "properties": {
+        "stationTriplet": "673:WY:SNTL",
+        "state": "WY",
+        "stationId": "673",
+        "networkCode": "SNTL",
+        "name": "Old Battle",
+        "shefId": "OLDW4",
+        "beginDate": "1962-09-01 00:00:00",
+        "countyName": "Carbon",
+        "elevation": 9860.0,
+        "huc": "101800020901",
+        "longitude": -106.96926,
+        "latitude": 41.15426,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=673",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Old Battle.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.96926, 41.15426]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.00988, 43.65868, -109.00988, 43.65868],
+      "properties": {
+        "stationTriplet": "676:WY:SNTL",
+        "state": "WY",
+        "stationId": "676",
+        "networkCode": "SNTL",
+        "name": "Owl Creek",
+        "shefId": "OLWW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Hot Springs",
+        "elevation": 8975.0,
+        "huc": "100800070103",
+        "longitude": -109.00988,
+        "latitude": 43.65868,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=676",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Owl Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.00988, 43.65868]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.00988, 43.65868, -109.00988, 43.65868],
+      "properties": {
+        "stationTriplet": "676:WY:SNTL",
+        "state": "WY",
+        "stationId": "676",
+        "networkCode": "SNTL",
+        "name": "Owl Creek",
+        "shefId": "OLWW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Hot Springs",
+        "elevation": 8975.0,
+        "huc": "100800070103",
+        "longitude": -109.00988,
+        "latitude": 43.65868,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=676",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Owl Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.00988, 43.65868]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.91484, 44.73396, -109.91484, 44.73396],
+      "properties": {
+        "stationTriplet": "683:WY:SNTL",
+        "state": "WY",
+        "stationId": "683",
+        "networkCode": "SNTL",
+        "name": "Parker Peak",
+        "shefId": "PRKW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 9400.0,
+        "huc": "100700010502",
+        "longitude": -109.91484,
+        "latitude": 44.73396,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=683",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Parker Peak.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.91484, 44.73396]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.91484, 44.73396, -109.91484, 44.73396],
+      "properties": {
+        "stationTriplet": "683:WY:SNTL",
+        "state": "WY",
+        "stationId": "683",
+        "networkCode": "SNTL",
+        "name": "Parker Peak",
+        "shefId": "PRKW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 9400.0,
+        "huc": "100700010502",
+        "longitude": -109.91484,
+        "latitude": 44.73396,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=683",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Parker Peak.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.91484, 44.73396]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.91258, 43.51687, -110.91258, 43.51687],
+      "properties": {
+        "stationTriplet": "689:WY:SNTL",
+        "state": "WY",
+        "stationId": "689",
+        "networkCode": "SNTL",
+        "name": "Phillips Bench",
+        "shefId": "PHBW4",
+        "beginDate": "1976-03-01 00:00:00",
+        "countyName": "Teton",
+        "elevation": 8200.0,
+        "huc": "170401030504",
+        "longitude": -110.91258,
+        "latitude": 43.51687,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=689",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Phillips Bench.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.91258, 43.51687]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.91258, 43.51687, -110.91258, 43.51687],
+      "properties": {
+        "stationTriplet": "689:WY:SNTL",
+        "state": "WY",
+        "stationId": "689",
+        "networkCode": "SNTL",
+        "name": "Phillips Bench",
+        "shefId": "PHBW4",
+        "beginDate": "1976-03-01 00:00:00",
+        "countyName": "Teton",
+        "elevation": 8200.0,
+        "huc": "170401030504",
+        "longitude": -110.91258,
+        "latitude": 43.51687,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=689",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Phillips Bench.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.91258, 43.51687]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.41120, 42.71210, -109.41120, 42.71210],
+      "properties": {
+        "stationTriplet": "1133:WY:SNTL",
+        "state": "WY",
+        "stationId": "1133",
+        "networkCode": "SNTL",
+        "name": "Pocket Creek",
+        "shefId": "PKCW4",
+        "beginDate": "2009-09-10 11:00:00",
+        "countyName": "Sublette",
+        "elevation": 9360.0,
+        "huc": "140401020505",
+        "longitude": -109.4112,
+        "latitude": 42.7121,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1133",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Pocket Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.41120, 42.71210]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.41120, 42.71210, -109.41120, 42.71210],
+      "properties": {
+        "stationTriplet": "1133:WY:SNTL",
+        "state": "WY",
+        "stationId": "1133",
+        "networkCode": "SNTL",
+        "name": "Pocket Creek",
+        "shefId": "PKCW4",
+        "beginDate": "2009-09-10 11:00:00",
+        "countyName": "Sublette",
+        "elevation": 9360.0,
+        "huc": "140401020505",
+        "longitude": -109.4112,
+        "latitude": 42.7121,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1133",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Pocket Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.41120, 42.71210]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.41120, 42.71210, -109.41120, 42.71210],
+      "properties": {
+        "stationTriplet": "1133:WY:SNTL",
+        "state": "WY",
+        "stationId": "1133",
+        "networkCode": "SNTL",
+        "name": "Pocket Creek",
+        "shefId": "PKCW4",
+        "beginDate": "2009-09-10 11:00:00",
+        "countyName": "Sublette",
+        "elevation": 9360.0,
+        "huc": "140401020505",
+        "longitude": -109.4112,
+        "latitude": 42.7121,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1133",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Pocket Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.41120, 42.71210]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.12622, 44.16188, -107.12622, 44.16188],
+      "properties": {
+        "stationTriplet": "703:WY:SNTL",
+        "state": "WY",
+        "stationId": "703",
+        "networkCode": "SNTL",
+        "name": "Powder River Pass",
+        "shefId": "PWDW4",
+        "beginDate": "1949-10-01 00:00:00",
+        "countyName": "Johnson",
+        "elevation": 9480.0,
+        "huc": "100800080304",
+        "longitude": -107.12622,
+        "latitude": 44.16188,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=703",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Powder River Pass.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.12622, 44.16188]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.08969, 42.57089, -106.08969, 42.57089],
+      "properties": {
+        "stationTriplet": "716:WY:SNTL",
+        "state": "WY",
+        "stationId": "716",
+        "networkCode": "SNTL",
+        "name": "Reno Hill",
+        "shefId": "RNHW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Natrona",
+        "elevation": 8430.0,
+        "huc": "101800070901",
+        "longitude": -106.08969,
+        "latitude": 42.57089,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=716",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Reno Hill.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.08969, 42.57089]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.25740, 41.40107, -107.25740, 41.40107],
+      "properties": {
+        "stationTriplet": "1015:WY:SNTL",
+        "state": "WY",
+        "stationId": "1015",
+        "networkCode": "SNTL",
+        "name": "Sage Creek Basin",
+        "shefId": "SGBW4",
+        "beginDate": "2001-10-01 00:00:00",
+        "countyName": "Carbon",
+        "elevation": 7850.0,
+        "huc": "101800020802",
+        "longitude": -107.2574,
+        "latitude": 41.40107,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1015",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Sage Creek Basin.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.25740, 41.40107]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.90990, 42.50750, -110.90990, 42.50750],
+      "properties": {
+        "stationTriplet": "730:WY:SNTL",
+        "state": "WY",
+        "stationId": "730",
+        "networkCode": "SNTL",
+        "name": "Salt River Summit",
+        "shefId": "SLTW4",
+        "beginDate": "1959-10-01 00:00:00",
+        "countyName": "Lincoln",
+        "elevation": 7640.0,
+        "huc": "170401050101",
+        "longitude": -110.9099,
+        "latitude": 42.5075,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=730",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Salt River Summit.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.90990, 42.50750]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.28100, 41.46250, -106.28100, 41.46250],
+      "properties": {
+        "stationTriplet": "731:WY:SNTL",
+        "state": "WY",
+        "stationId": "731",
+        "networkCode": "SNTL",
+        "name": "Sand Lake",
+        "shefId": "SNLW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Carbon",
+        "elevation": 10098.0,
+        "huc": "101800040101",
+        "longitude": -106.281,
+        "latitude": 41.4625,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=731",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Sand Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.28100, 41.46250]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.17043, 41.11179, -107.17043, 41.11179],
+      "properties": {
+        "stationTriplet": "732:WY:SNTL",
+        "state": "WY",
+        "stationId": "732",
+        "networkCode": "SNTL",
+        "name": "Sandstone RS",
+        "shefId": "SRSW4",
+        "beginDate": "1984-10-01 00:00:00",
+        "countyName": "Carbon",
+        "elevation": 8152.0,
+        "huc": "140500030208",
+        "longitude": -107.17043,
+        "latitude": 41.11179,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=732",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Sandstone RS.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.17043, 41.11179]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.42947, 44.50012, -107.42947, 44.50012],
+      "properties": {
+        "stationTriplet": "751:WY:SNTL",
+        "state": "WY",
+        "stationId": "751",
+        "networkCode": "SNTL",
+        "name": "Shell Creek",
+        "shefId": "SCRW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Big Horn",
+        "elevation": 9580.0,
+        "huc": "100800100101",
+        "longitude": -107.42947,
+        "latitude": 44.50012,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=751",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Shell Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.42947, 44.50012]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.66917, 44.13361, -110.66917, 44.13361],
+      "properties": {
+        "stationTriplet": "764:WY:SNTL",
+        "state": "WY",
+        "stationId": "764",
+        "networkCode": "SNTL",
+        "name": "Snake River Station",
+        "shefId": "SKRW4",
+        "beginDate": "1989-10-01 00:00:00",
+        "countyName": "Teton",
+        "elevation": 6920.0,
+        "huc": "170401010402",
+        "longitude": -110.66917,
+        "latitude": 44.13361,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=764",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Snake River Station.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.66917, 44.13361]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.53203, 42.49490, -110.53203, 42.49490],
+      "properties": {
+        "stationTriplet": "765:WY:SNTL",
+        "state": "WY",
+        "stationId": "765",
+        "networkCode": "SNTL",
+        "name": "Snider Basin",
+        "shefId": "SNIW4",
+        "beginDate": "1980-09-15 00:00:00",
+        "countyName": "Sublette",
+        "elevation": 8060.0,
+        "huc": "140401010906",
+        "longitude": -110.53203,
+        "latitude": 42.4949,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=765",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Snider Basin.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.53203, 42.49490]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.53203, 42.49490, -110.53203, 42.49490],
+      "properties": {
+        "stationTriplet": "765:WY:SNTL",
+        "state": "WY",
+        "stationId": "765",
+        "networkCode": "SNTL",
+        "name": "Snider Basin",
+        "shefId": "SNIW4",
+        "beginDate": "1980-09-15 00:00:00",
+        "countyName": "Sublette",
+        "elevation": 8060.0,
+        "huc": "140401010906",
+        "longitude": -110.53203,
+        "latitude": 42.4949,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=765",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Snider Basin.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.53203, 42.49490]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.01360, 44.34847, -107.01360, 44.34847],
+      "properties": {
+        "stationTriplet": "1132:WY:SNTL",
+        "state": "WY",
+        "stationId": "1132",
+        "networkCode": "SNTL",
+        "name": "Soldier Park",
+        "shefId": "SLDW4",
+        "beginDate": "2010-08-06 00:00:00",
+        "countyName": "Johnson",
+        "elevation": 8720.0,
+        "huc": "100902060103",
+        "longitude": -107.0136,
+        "latitude": 44.34847,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1132",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Soldier Park.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.01360, 44.34847]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.50250, 41.32950, -106.50250, 41.32950],
+      "properties": {
+        "stationTriplet": "772:WY:SNTL",
+        "state": "WY",
+        "stationId": "772",
+        "networkCode": "SNTL",
+        "name": "South Brush Creek",
+        "shefId": "SBCW4",
+        "beginDate": "1976-02-01 00:00:00",
+        "countyName": "Carbon",
+        "elevation": 8495.0,
+        "huc": "101800020303",
+        "longitude": -106.5025,
+        "latitude": 41.3295,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=772",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//South Brush Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.50250, 41.32950]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.50250, 41.32950, -106.50250, 41.32950],
+      "properties": {
+        "stationTriplet": "772:WY:SNTL",
+        "state": "WY",
+        "stationId": "772",
+        "networkCode": "SNTL",
+        "name": "South Brush Creek",
+        "shefId": "SBCW4",
+        "beginDate": "1976-02-01 00:00:00",
+        "countyName": "Carbon",
+        "elevation": 8495.0,
+        "huc": "101800020303",
+        "longitude": -106.5025,
+        "latitude": 41.3295,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=772",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//South Brush Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.50250, 41.32950]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-108.84325, 42.57317, -108.84325, 42.57317],
+      "properties": {
+        "stationTriplet": "775:WY:SNTL",
+        "state": "WY",
+        "stationId": "775",
+        "networkCode": "SNTL",
+        "name": "South Pass",
+        "shefId": "SPSW4",
+        "beginDate": "1984-10-01 00:00:00",
+        "countyName": "Fremont",
+        "elevation": 9040.0,
+        "huc": "100800030101",
+        "longitude": -108.84325,
+        "latitude": 42.57317,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=775",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//South Pass.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-108.84325, 42.57317]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.66148, 42.52516, -110.66148, 42.52516],
+      "properties": {
+        "stationTriplet": "779:WY:SNTL",
+        "state": "WY",
+        "stationId": "779",
+        "networkCode": "SNTL",
+        "name": "Spring Creek Divide",
+        "shefId": "SCDW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Sublette",
+        "elevation": 9000.0,
+        "huc": "140401011001",
+        "longitude": -110.66148,
+        "latitude": 42.52516,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=779",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Spring Creek Divide.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.66148, 42.52516]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.66148, 42.52516, -110.66148, 42.52516],
+      "properties": {
+        "stationTriplet": "779:WY:SNTL",
+        "state": "WY",
+        "stationId": "779",
+        "networkCode": "SNTL",
+        "name": "Spring Creek Divide",
+        "shefId": "SCDW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Sublette",
+        "elevation": 9000.0,
+        "huc": "140401011001",
+        "longitude": -110.66148,
+        "latitude": 42.52516,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=779",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Spring Creek Divide.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.66148, 42.52516]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.17025, 43.03313, -109.17025, 43.03313],
+      "properties": {
+        "stationTriplet": "786:WY:SNTL",
+        "state": "WY",
+        "stationId": "786",
+        "networkCode": "SNTL",
+        "name": "St. Lawrence Alt",
+        "shefId": "SLAW4",
+        "beginDate": "1983-10-01 00:00:00",
+        "countyName": "Fremont",
+        "elevation": 8620.0,
+        "huc": "100800020105",
+        "longitude": -109.17025,
+        "latitude": 43.03313,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=786",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//St. Lawrence Alt.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.17025, 43.03313]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.40033, 44.72250, -107.40033, 44.72250],
+      "properties": {
+        "stationTriplet": "798:WY:SNTL",
+        "state": "WY",
+        "stationId": "798",
+        "networkCode": "SNTL",
+        "name": "Sucker Creek",
+        "shefId": "SUCW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Sheridan",
+        "elevation": 8880.0,
+        "huc": "100901010203",
+        "longitude": -107.40033,
+        "latitude": 44.7225,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=798",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Sucker Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.40033, 44.72250]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.15651, 44.47764, -110.15651, 44.47764],
+      "properties": {
+        "stationTriplet": "806:WY:SNTL",
+        "state": "WY",
+        "stationId": "806",
+        "networkCode": "SNTL",
+        "name": "Sylvan Lake",
+        "shefId": "SYLW4",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 8420.0,
+        "huc": "100700010404",
+        "longitude": -110.15651,
+        "latitude": 44.47764,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=806",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Sylvan Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.15651, 44.47764]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.03808, 44.47825, -110.03808, 44.47825],
+      "properties": {
+        "stationTriplet": "807:WY:SNTL",
+        "state": "WY",
+        "stationId": "807",
+        "networkCode": "SNTL",
+        "name": "Sylvan Road",
+        "shefId": "SYRW4",
+        "beginDate": "1986-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 7120.0,
+        "huc": "100800120103",
+        "longitude": -110.03808,
+        "latitude": 44.47825,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=807",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Sylvan Road.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.03808, 44.47825]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.57717, 44.36917, -110.57717, 44.36917],
+      "properties": {
+        "stationTriplet": "816:WY:SNTL",
+        "state": "WY",
+        "stationId": "816",
+        "networkCode": "SNTL",
+        "name": "Thumb Divide",
+        "shefId": "THUW4",
+        "beginDate": "1987-09-30 00:00:00",
+        "countyName": "Teton",
+        "elevation": 7980.0,
+        "huc": "100700010409",
+        "longitude": -110.57717,
+        "latitude": 44.36917,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=816",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Thumb Divide.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.57717, 44.36917]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.41017, 44.81243, -107.41017, 44.81243],
+      "properties": {
+        "stationTriplet": "818:WY:SNTL",
+        "state": "WY",
+        "stationId": "818",
+        "networkCode": "SNTL",
+        "name": "Tie Creek",
+        "shefId": "TIEW4",
+        "beginDate": "1994-08-01 00:00:00",
+        "countyName": "Sheridan",
+        "elevation": 6870.0,
+        "huc": "100901010205",
+        "longitude": -107.41017,
+        "latitude": 44.81243,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=818",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Tie Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.41017, 44.81243]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.17879, 44.02740, -109.17879, 44.02740],
+      "properties": {
+        "stationTriplet": "819:WY:SNTL",
+        "state": "WY",
+        "stationId": "819",
+        "networkCode": "SNTL",
+        "name": "Timber Creek",
+        "shefId": "TICW4",
+        "beginDate": "1967-08-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 7950.0,
+        "huc": "100800090210",
+        "longitude": -109.17879,
+        "latitude": 44.0274,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=819",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Timber Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.17879, 44.02740]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.05780, 43.74902, -110.05780, 43.74902],
+      "properties": {
+        "stationTriplet": "822:WY:SNTL",
+        "state": "WY",
+        "stationId": "822",
+        "networkCode": "SNTL",
+        "name": "Togwotee Pass",
+        "shefId": "TOGW4",
+        "beginDate": "1960-10-01 00:00:00",
+        "countyName": "Teton",
+        "elevation": 9580.0,
+        "huc": "100800010201",
+        "longitude": -110.0578,
+        "latitude": 43.74902,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=822",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Togwotee Pass.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.05780, 43.74902]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-108.89572, 42.69525, -108.89572, 42.69525],
+      "properties": {
+        "stationTriplet": "826:WY:SNTL",
+        "state": "WY",
+        "stationId": "826",
+        "networkCode": "SNTL",
+        "name": "Townsend Creek",
+        "shefId": "TWNW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Fremont",
+        "elevation": 8700.0,
+        "huc": "100800030203",
+        "longitude": -108.89572,
+        "latitude": 42.69525,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=826",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Townsend Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-108.89572, 42.69525]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.59140, 42.76393, -110.59140, 42.76393],
+      "properties": {
+        "stationTriplet": "831:WY:SNTL",
+        "state": "WY",
+        "stationId": "831",
+        "networkCode": "SNTL",
+        "name": "Triple Peak",
+        "shefId": "TRPW4",
+        "beginDate": "1984-10-01 00:00:00",
+        "countyName": "Sublette",
+        "elevation": 8500.0,
+        "huc": "140401010503",
+        "longitude": -110.5914,
+        "latitude": 42.76393,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=831",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Triple Peak.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.59140, 42.76393]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.22122, 44.15178, -110.22122, 44.15178],
+      "properties": {
+        "stationTriplet": "837:WY:SNTL",
+        "state": "WY",
+        "stationId": "837",
+        "networkCode": "SNTL",
+        "name": "Two Ocean Plateau",
+        "shefId": "TOPW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Teton",
+        "elevation": 9240.0,
+        "huc": "170401010201",
+        "longitude": -110.22122,
+        "latitude": 44.15178,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=837",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Two Ocean Plateau.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.22122, 44.15178]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.92809, 41.15910, -106.92809, 41.15910],
+      "properties": {
+        "stationTriplet": "852:WY:SNTL",
+        "state": "WY",
+        "stationId": "852",
+        "networkCode": "SNTL",
+        "name": "Webber Springs",
+        "shefId": "WBSW4",
+        "beginDate": "1976-02-01 00:00:00",
+        "countyName": "Carbon",
+        "elevation": 9260.0,
+        "huc": "101800020406",
+        "longitude": -106.92809,
+        "latitude": 41.1591,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=852",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Webber Springs.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.92809, 41.15910]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.90795, 41.00368, -106.90795, 41.00368],
+      "properties": {
+        "stationTriplet": "859:WY:SNTL",
+        "state": "WY",
+        "stationId": "859",
+        "networkCode": "SNTL",
+        "name": "Whiskey Park",
+        "shefId": "WPKW4",
+        "beginDate": "1985-10-01 00:00:00",
+        "countyName": "Carbon",
+        "elevation": 9020.0,
+        "huc": "140500030102",
+        "longitude": -106.90795,
+        "latitude": 41.00368,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=859",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Whiskey Park.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.90795, 41.00368]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.83515, 42.81513, -110.83515, 42.81513],
+      "properties": {
+        "stationTriplet": "868:WY:SNTL",
+        "state": "WY",
+        "stationId": "868",
+        "networkCode": "SNTL",
+        "name": "Willow Creek",
+        "shefId": "WILW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Lincoln",
+        "elevation": 8080.0,
+        "huc": "170401050204",
+        "longitude": -110.83515,
+        "latitude": 42.81513,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=868",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Willow Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.83515, 42.81513]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.57782, 42.27991, -105.57782, 42.27991],
+      "properties": {
+        "stationTriplet": "872:WY:SNTL",
+        "state": "WY",
+        "stationId": "872",
+        "networkCode": "SNTL",
+        "name": "Windy Peak",
+        "shefId": "WNDW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Albany",
+        "elevation": 7915.0,
+        "huc": "101800080802",
+        "longitude": -105.57782,
+        "latitude": 42.27991,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=872",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Windy Peak.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.57782, 42.27991]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.65700, 44.80417, -109.65700, 44.80417],
+      "properties": {
+        "stationTriplet": "875:WY:SNTL",
+        "state": "WY",
+        "stationId": "875",
+        "networkCode": "SNTL",
+        "name": "Wolverine",
+        "shefId": "WLVW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 7650.0,
+        "huc": "100700060104",
+        "longitude": -109.657,
+        "latitude": 44.80417,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=875",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Wolverine.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.65700, 44.80417]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.65700, 44.80417, -109.65700, 44.80417],
+      "properties": {
+        "stationTriplet": "875:WY:SNTL",
+        "state": "WY",
+        "stationId": "875",
+        "networkCode": "SNTL",
+        "name": "Wolverine",
+        "shefId": "WLVW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 7650.0,
+        "huc": "100700060104",
+        "longitude": -109.657,
+        "latitude": 44.80417,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=875",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Wolverine.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.65700, 44.80417]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.81775, 43.93225, -109.81775, 43.93225],
+      "properties": {
+        "stationTriplet": "878:WY:SNTL",
+        "state": "WY",
+        "stationId": "878",
+        "networkCode": "SNTL",
+        "name": "Younts Peak",
+        "shefId": "YOUW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 8350.0,
+        "huc": "100800130103",
+        "longitude": -109.81775,
+        "latitude": 43.93225,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=878",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Younts Peak.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.81775, 43.93225]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.81775, 43.93225, -109.81775, 43.93225],
+      "properties": {
+        "stationTriplet": "878:WY:SNTL",
+        "state": "WY",
+        "stationId": "878",
+        "networkCode": "SNTL",
+        "name": "Younts Peak",
+        "shefId": "YOUW4",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Park",
+        "elevation": 8350.0,
+        "huc": "100800130103",
+        "longitude": -109.81775,
+        "latitude": 43.93225,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=878",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Younts Peak.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.81775, 43.93225]
+      }
+    }
+  ]
+}

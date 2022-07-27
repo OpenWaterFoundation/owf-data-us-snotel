@@ -1,0 +1,558 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [-112.14966, 33.65352, -109.05702, 36.32671],
+  "features": [
+    {
+      "type": "Feature",
+      "bbox": [-111.40651, 34.45654, -111.40651, 34.45654],
+      "properties": {
+        "stationTriplet": "308:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "308",
+        "networkCode": "SNTL",
+        "name": "Baker Butte",
+        "shefId": "BKBA3",
+        "beginDate": "1965-10-01 00:00:00",
+        "countyName": "Coconino",
+        "elevation": 7363.0,
+        "huc": "150602030206",
+        "longitude": -111.40651,
+        "latitude": 34.45654,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=308",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Baker Butte.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.40651, 34.45654]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-111.38262, 34.45552, -111.38262, 34.45552],
+      "properties": {
+        "stationTriplet": "1140:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "1140",
+        "networkCode": "SNTL",
+        "name": "Baker Butte Smt",
+        "shefId": "BBSA3",
+        "beginDate": "2009-05-18 00:00:00",
+        "countyName": "Coconino",
+        "elevation": 7752.0,
+        "huc": "150602030103",
+        "longitude": -111.38262,
+        "latitude": 34.45552,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1140",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Baker Butte Smt.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.38262, 34.45552]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.50357, 33.97845, -109.50357, 33.97845],
+      "properties": {
+        "stationTriplet": "310:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "310",
+        "networkCode": "SNTL",
+        "name": "Baldy",
+        "shefId": "BLDA3",
+        "beginDate": "1949-11-01 00:00:00",
+        "countyName": "Apache",
+        "elevation": 9221.0,
+        "huc": "150200010203",
+        "longitude": -109.50357,
+        "latitude": 33.97845,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=310",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Baldy.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.50357, 33.97845]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-111.60497, 34.86142, -111.60497, 34.86142],
+      "properties": {
+        "stationTriplet": "1212:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "1212",
+        "networkCode": "SNTL",
+        "name": "Bar M",
+        "shefId": "BRMA3",
+        "beginDate": "2012-09-06 00:00:00",
+        "countyName": "Coconino",
+        "elevation": 6397.0,
+        "huc": "150602020601",
+        "longitude": -111.60497,
+        "latitude": 34.86142,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1212",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Bar M.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.60497, 34.86142]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.21685, 33.69115, -109.21685, 33.69115],
+      "properties": {
+        "stationTriplet": "902:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "902",
+        "networkCode": "SNTL",
+        "name": "Beaver Head",
+        "shefId": "XBHA3",
+        "beginDate": "1993-10-01 00:00:00",
+        "countyName": "Greenlee",
+        "elevation": 8076.0,
+        "huc": "150601010107",
+        "longitude": -109.21685,
+        "latitude": 33.69115,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=902",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Beaver Head.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.21685, 33.69115]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.05702, 36.32671, -109.05702, 36.32671],
+      "properties": {
+        "stationTriplet": "1143:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "1143",
+        "networkCode": "SNTL",
+        "name": "Beaver Spring",
+        "shefId": "BVRA3",
+        "beginDate": "2009-10-01 00:00:00",
+        "countyName": "Apache",
+        "elevation": 9255.0,
+        "huc": "140802040401",
+        "longitude": -109.05702,
+        "latitude": 36.32671,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1143",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Beaver Spring.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.05702, 36.32671]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-112.06221, 35.26238, -112.06221, 35.26238],
+      "properties": {
+        "stationTriplet": "1139:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "1139",
+        "networkCode": "SNTL",
+        "name": "Chalender",
+        "shefId": "CDRA3",
+        "beginDate": "2009-05-15 00:00:00",
+        "countyName": "Coconino",
+        "elevation": 7035.0,
+        "huc": "150602020305",
+        "longitude": -112.06221,
+        "latitude": 35.26238,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1139",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Chalender.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.06221, 35.26238]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.15352, 33.80418, -109.15352, 33.80418],
+      "properties": {
+        "stationTriplet": "416:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "416",
+        "networkCode": "SNTL",
+        "name": "Coronado Trail",
+        "shefId": "CNDA3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Apache",
+        "elevation": 8418.0,
+        "huc": "150400040501",
+        "longitude": -109.15352,
+        "latitude": 33.80418,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=416",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Coronado Trail.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.15352, 33.80418]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-111.74479, 35.26773, -111.74479, 35.26773],
+      "properties": {
+        "stationTriplet": "1121:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "1121",
+        "networkCode": "SNTL",
+        "name": "Fort Valley",
+        "shefId": "FRVA3",
+        "beginDate": "2008-06-26 00:00:00",
+        "countyName": "Coconino",
+        "elevation": 7371.0,
+        "huc": "150200150102",
+        "longitude": -111.74479,
+        "latitude": 35.26773,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1121",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Fort Valley.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.74479, 35.26773]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-111.84477, 35.07356, -111.84477, 35.07356],
+      "properties": {
+        "stationTriplet": "488:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "488",
+        "networkCode": "SNTL",
+        "name": "Fry",
+        "shefId": "FRYA3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Coconino",
+        "elevation": 7236.0,
+        "huc": "150602020501",
+        "longitude": -111.84477,
+        "latitude": 35.07356,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=488",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Fry.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.84477, 35.07356]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.30877, 33.65352, -109.30877, 33.65352],
+      "properties": {
+        "stationTriplet": "511:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "511",
+        "networkCode": "SNTL",
+        "name": "Hannagan Meadows",
+        "shefId": "HNMA3",
+        "beginDate": "1956-10-01 00:00:00",
+        "countyName": "Greenlee",
+        "elevation": 9027.0,
+        "huc": "150601010107",
+        "longitude": -109.30877,
+        "latitude": 33.65352,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=511",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Hannagan Meadows.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.30877, 33.65352]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-111.41219, 34.74594, -111.41219, 34.74594],
+      "properties": {
+        "stationTriplet": "969:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "969",
+        "networkCode": "SNTL",
+        "name": "Happy Jack",
+        "shefId": "XHJA3",
+        "beginDate": "1999-06-01 00:00:00",
+        "countyName": "Coconino",
+        "elevation": 7539.0,
+        "huc": "150602020604",
+        "longitude": -111.41219,
+        "latitude": 34.74594,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=969",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Happy Jack.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.41219, 34.74594]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.76531, 33.97121, -109.76531, 33.97121],
+      "properties": {
+        "stationTriplet": "1271:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "1271",
+        "networkCode": "SNTL",
+        "name": "Hawley Lake",
+        "shefId": "HAWA3",
+        "beginDate": "2015-09-18 00:00:00",
+        "countyName": "Apache",
+        "elevation": 8314.0,
+        "huc": "150601020106",
+        "longitude": -109.76531,
+        "latitude": 33.97121,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1271",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Hawley Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.76531, 33.97121]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.75433, 34.31254, -110.75433, 34.31254],
+      "properties": {
+        "stationTriplet": "519:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "519",
+        "networkCode": "SNTL",
+        "name": "Heber",
+        "shefId": "HBEA3",
+        "beginDate": "1953-10-01 00:00:00",
+        "countyName": "Coconino",
+        "elevation": 7654.0,
+        "huc": "150200100201",
+        "longitude": -110.75433,
+        "latitude": 34.31254,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=519",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Heber.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.75433, 34.31254]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.45872, 33.92123, -109.45872, 33.92123],
+      "properties": {
+        "stationTriplet": "617:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "617",
+        "networkCode": "SNTL",
+        "name": "Maverick Fork",
+        "shefId": "MVFA3",
+        "beginDate": "1953-10-01 00:00:00",
+        "countyName": "Apache",
+        "elevation": 9220.0,
+        "huc": "150601010104",
+        "longitude": -109.45872,
+        "latitude": 33.92123,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=617",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Maverick Fork.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.45872, 33.92123]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-111.51864, 34.94141, -111.51864, 34.94141],
+      "properties": {
+        "stationTriplet": "640:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "640",
+        "networkCode": "SNTL",
+        "name": "Mormon Mountain",
+        "shefId": "MRMA3",
+        "beginDate": "1963-01-01 00:00:00",
+        "countyName": "Coconino",
+        "elevation": 7500.0,
+        "huc": "150200150201",
+        "longitude": -111.51864,
+        "latitude": 34.94141,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=640",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Mormon Mountain.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.51864, 34.94141]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-111.50868, 34.96942, -111.50868, 34.96942],
+      "properties": {
+        "stationTriplet": "1125:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "1125",
+        "networkCode": "SNTL",
+        "name": "Mormon Mtn Summit",
+        "shefId": "MMNA3",
+        "beginDate": "2008-06-02 00:00:00",
+        "countyName": "Coconino",
+        "elevation": 8462.0,
+        "huc": "150200150202",
+        "longitude": -111.50868,
+        "latitude": 34.96942,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1125",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Mormon Mtn Summit.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.50868, 34.96942]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.15465, 33.89791, -109.15465, 33.89791],
+      "properties": {
+        "stationTriplet": "1127:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "1127",
+        "networkCode": "SNTL",
+        "name": "Nutrioso",
+        "shefId": "NUTA3",
+        "beginDate": "2008-06-02 00:00:00",
+        "countyName": "Apache",
+        "elevation": 8571.0,
+        "huc": "150400040301",
+        "longitude": -109.15465,
+        "latitude": 33.89791,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1127",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Nutrioso.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.15465, 33.89791]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-111.01088, 34.36848, -111.01088, 34.36848],
+      "properties": {
+        "stationTriplet": "705:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "705",
+        "networkCode": "SNTL",
+        "name": "Promontory",
+        "shefId": "PROA3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Coconino",
+        "elevation": 7942.0,
+        "huc": "150200080306",
+        "longitude": -111.01088,
+        "latitude": 34.36848,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=705",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Promontory.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.01088, 34.36848]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-111.65084, 35.34179, -111.65084, 35.34179],
+      "properties": {
+        "stationTriplet": "927:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "927",
+        "networkCode": "SNTL",
+        "name": "Snowslide Canyon",
+        "shefId": "XSCA3",
+        "beginDate": "1997-09-01 00:00:00",
+        "countyName": "Coconino",
+        "elevation": 9744.0,
+        "huc": "150200160201",
+        "longitude": -111.65084,
+        "latitude": 35.34179,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=927",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Snowslide Canyon.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.65084, 35.34179]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-112.14966, 35.14189, -112.14966, 35.14189],
+      "properties": {
+        "stationTriplet": "861:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "861",
+        "networkCode": "SNTL",
+        "name": "White Horse Lake",
+        "shefId": "WHLA3",
+        "beginDate": "1970-11-01 00:00:00",
+        "countyName": "Coconino",
+        "elevation": 7203.0,
+        "huc": "150602020204",
+        "longitude": -112.14966,
+        "latitude": 35.14189,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=861",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//White Horse Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.14966, 35.14189]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-109.48078, 33.74347, -109.48078, 33.74347],
+      "properties": {
+        "stationTriplet": "866:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "866",
+        "networkCode": "SNTL",
+        "name": "Wildcat",
+        "shefId": "WCTA3",
+        "beginDate": "1983-10-01 00:00:00",
+        "countyName": "Apache",
+        "elevation": 7868.0,
+        "huc": "150601010109",
+        "longitude": -109.48078,
+        "latitude": 33.74347,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=866",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Wildcat.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.48078, 33.74347]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-110.91852, 33.81259, -110.91852, 33.81259],
+      "properties": {
+        "stationTriplet": "877:AZ:SNTL",
+        "state": "AZ",
+        "stationId": "877",
+        "networkCode": "SNTL",
+        "name": "Workman Creek",
+        "shefId": "WKMA3",
+        "beginDate": "1938-12-01 00:00:00",
+        "countyName": "Gila",
+        "elevation": 7032.0,
+        "huc": "150601030802",
+        "longitude": -110.91852,
+        "latitude": 33.81259,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=877",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Workman Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.91852, 33.81259]
+      }
+    }
+  ]
+}

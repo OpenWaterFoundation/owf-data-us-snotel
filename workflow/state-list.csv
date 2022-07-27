@@ -1,0 +1,14 @@
+# List of states to process.
+"State","StateLower","FipsStateNumber"
+AK,ak,02
+AZ,az,04
+CA,ca,06
+CO,co,08
+ID,id,16
+MT,mt,30
+NM,nm,35
+NV,nv,32
+OR,or,41
+UT,ut,49
+WA,wa,53
+WY,wy,56
