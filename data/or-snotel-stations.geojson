@@ -1,0 +1,1974 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [-123.37315, 42.05257, -117.16522, 45.98210],
+  "features": [
+    {
+      "type": "Feature",
+      "bbox": [-117.19258, 45.21328, -117.19258, 45.21328],
+      "properties": {
+        "stationTriplet": "302:OR:SNTL",
+        "state": "OR",
+        "stationId": "302",
+        "networkCode": "SNTL",
+        "name": "Aneroid Lake #2",
+        "shefId": "ANRO3",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Wallowa",
+        "elevation": 7400.0,
+        "huc": "170601050101",
+        "longitude": -117.19258,
+        "latitude": 45.21328,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=302",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Aneroid Lake #2.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.19258, 45.21328]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.16518, 42.87007, -122.16518, 42.87007],
+      "properties": {
+        "stationTriplet": "1000:OR:SNTL",
+        "state": "OR",
+        "stationId": "1000",
+        "networkCode": "SNTL",
+        "name": "Annie Springs",
+        "shefId": "ANSO3",
+        "beginDate": "2000-09-01 00:00:00",
+        "countyName": "Klamath",
+        "elevation": 6010.0,
+        "huc": "180102030101",
+        "longitude": -122.16518,
+        "latitude": 42.87007,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1000",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Annie Springs.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.16518, 42.87007]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.25392, 45.19085, -119.25392, 45.19085],
+      "properties": {
+        "stationTriplet": "304:OR:SNTL",
+        "state": "OR",
+        "stationId": "304",
+        "networkCode": "SNTL",
+        "name": "Arbuckle Mtn",
+        "shefId": "ARBO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Morrow",
+        "elevation": 5770.0,
+        "huc": "170702020604",
+        "longitude": -119.25392,
+        "latitude": 45.19085,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=304",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Arbuckle Mtn.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.25392, 45.19085]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.09380, 44.32530, -122.09380, 44.32530],
+      "properties": {
+        "stationTriplet": "1166:OR:SNTL",
+        "state": "OR",
+        "stationId": "1166",
+        "networkCode": "SNTL",
+        "name": "Bear Grass",
+        "shefId": "BKSO3",
+        "beginDate": "2011-07-18 00:00:00",
+        "countyName": "Linn",
+        "elevation": 4720.0,
+        "huc": "170900040203",
+        "longitude": -122.0938,
+        "latitude": 44.3253,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1166",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Bear Grass.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.09380, 44.32530]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.21900, 45.14532, -118.21900, 45.14532],
+      "properties": {
+        "stationTriplet": "331:OR:SNTL",
+        "state": "OR",
+        "stationId": "331",
+        "networkCode": "SNTL",
+        "name": "Beaver Reservoir",
+        "shefId": "BVRO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Union",
+        "elevation": 5150.0,
+        "huc": "170601040301",
+        "longitude": -118.219,
+        "latitude": 45.14532,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=331",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Beaver Reservoir.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.21900, 45.14532]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.85487, 42.05257, -122.85487, 42.05257],
+      "properties": {
+        "stationTriplet": "341:OR:SNTL",
+        "state": "OR",
+        "stationId": "341",
+        "networkCode": "SNTL",
+        "name": "Big Red Mountain",
+        "shefId": "BRMO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Jackson",
+        "elevation": 6050.0,
+        "huc": "171003090301",
+        "longitude": -122.85487,
+        "latitude": 42.05257,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=341",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Big Red Mountain.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.85487, 42.05257]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-123.34393, 42.07875, -123.34393, 42.07875],
+      "properties": {
+        "stationTriplet": "343:OR:SNTL",
+        "state": "OR",
+        "stationId": "343",
+        "networkCode": "SNTL",
+        "name": "Bigelow Camp",
+        "shefId": "BGCO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Josephine",
+        "elevation": 5130.0,
+        "huc": "171003090105",
+        "longitude": -123.34393,
+        "latitude": 42.07875,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=343",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Bigelow Camp.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.34393, 42.07875]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.26617, 42.40717, -122.26617, 42.40717],
+      "properties": {
+        "stationTriplet": "344:OR:SNTL",
+        "state": "OR",
+        "stationId": "344",
+        "networkCode": "SNTL",
+        "name": "Billie Creek Divide",
+        "shefId": "BCDO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Klamath",
+        "elevation": 5280.0,
+        "huc": "180102030201",
+        "longitude": -122.26617,
+        "latitude": 42.40717,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=344",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Billie Creek Divide.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.26617, 42.40717]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.85605, 45.42870, -121.85605, 45.42870],
+      "properties": {
+        "stationTriplet": "351:OR:SNTL",
+        "state": "OR",
+        "stationId": "351",
+        "networkCode": "SNTL",
+        "name": "Blazed Alder",
+        "shefId": "BLAO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Clackamas",
+        "elevation": 3650.0,
+        "huc": "170800010102",
+        "longitude": -121.85605,
+        "latitude": 45.4287,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=351",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Blazed Alder.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.85605, 45.42870]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.51722, 44.24767, -118.51722, 44.24767],
+      "properties": {
+        "stationTriplet": "357:OR:SNTL",
+        "state": "OR",
+        "stationId": "357",
+        "networkCode": "SNTL",
+        "name": "Blue Mountain Spring",
+        "shefId": "BLPO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Grant",
+        "elevation": 5870.0,
+        "huc": "170501160104",
+        "longitude": -118.51722,
+        "latitude": 44.24767,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=357",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Blue Mountain Spring.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.51722, 44.24767]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.18787, 44.83052, -118.18787, 44.83052],
+      "properties": {
+        "stationTriplet": "361:OR:SNTL",
+        "state": "OR",
+        "stationId": "361",
+        "networkCode": "SNTL",
+        "name": "Bourne",
+        "shefId": "BORO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Baker",
+        "elevation": 5850.0,
+        "huc": "170502030101",
+        "longitude": -118.18787,
+        "latitude": 44.83052,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=361",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Bourne.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.18787, 44.83052]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.46715, 45.36428, -118.46715, 45.36428],
+      "properties": {
+        "stationTriplet": "362:OR:SNTL",
+        "state": "OR",
+        "stationId": "362",
+        "networkCode": "SNTL",
+        "name": "Bowman Springs",
+        "shefId": "BMSO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Umatilla",
+        "elevation": 4530.0,
+        "huc": "170701030401",
+        "longitude": -118.46715,
+        "latitude": 45.36428,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=362",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Bowman Springs.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.46715, 45.36428]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.06010, 43.59042, -122.06010, 43.59042],
+      "properties": {
+        "stationTriplet": "388:OR:SNTL",
+        "state": "OR",
+        "stationId": "388",
+        "networkCode": "SNTL",
+        "name": "Cascade Summit",
+        "shefId": "CSTO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Deschutes",
+        "elevation": 5100.0,
+        "huc": "170900010301",
+        "longitude": -122.0601,
+        "latitude": 43.59042,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=388",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Cascade Summit.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.06010, 43.59042]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.80662, 43.22625, -121.80662, 43.22625],
+      "properties": {
+        "stationTriplet": "395:OR:SNTL",
+        "state": "OR",
+        "stationId": "395",
+        "networkCode": "SNTL",
+        "name": "Chemult Alternate",
+        "shefId": "CHUO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Klamath",
+        "elevation": 4850.0,
+        "huc": "180102010201",
+        "longitude": -121.80662,
+        "latitude": 43.22625,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=395",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Chemult Alternate.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.80662, 43.22625]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.75443, 45.09658, -121.75443, 45.09658],
+      "properties": {
+        "stationTriplet": "398:OR:SNTL",
+        "state": "OR",
+        "stationId": "398",
+        "networkCode": "SNTL",
+        "name": "Clackamas Lake",
+        "shefId": "CLLO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Clackamas",
+        "elevation": 3400.0,
+        "huc": "170900110301",
+        "longitude": -121.75443,
+        "latitude": 45.09658,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=398",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Clackamas Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.75443, 45.09658]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.69160, 45.18832, -121.69160, 45.18832],
+      "properties": {
+        "stationTriplet": "401:OR:SNTL",
+        "state": "OR",
+        "stationId": "401",
+        "networkCode": "SNTL",
+        "name": "Clear Lake",
+        "shefId": "CLKO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Wasco",
+        "elevation": 3810.0,
+        "huc": "170703060901",
+        "longitude": -121.6916,
+        "latitude": 45.18832,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=401",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Clear Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.69160, 45.18832]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.17683, 42.53305, -122.17683, 42.53305],
+      "properties": {
+        "stationTriplet": "406:OR:SNTL",
+        "state": "OR",
+        "stationId": "406",
+        "networkCode": "SNTL",
+        "name": "Cold Springs Camp",
+        "shefId": "CSCO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Klamath",
+        "elevation": 5940.0,
+        "huc": "180102030202",
+        "longitude": -122.17683,
+        "latitude": 42.53305,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=406",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Cold Springs Camp.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.17683, 42.53305]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.55015, 45.19107, -118.55015, 45.19107],
+      "properties": {
+        "stationTriplet": "422:OR:SNTL",
+        "state": "OR",
+        "stationId": "422",
+        "networkCode": "SNTL",
+        "name": "County Line",
+        "shefId": "COLO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Umatilla",
+        "elevation": 4830.0,
+        "huc": "170601040202",
+        "longitude": -118.55015,
+        "latitude": 45.19107,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=422",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//County Line.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.55015, 45.19107]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.94917, 42.63810, -120.94917, 42.63810],
+      "properties": {
+        "stationTriplet": "1010:OR:SNTL",
+        "state": "OR",
+        "stationId": "1010",
+        "networkCode": "SNTL",
+        "name": "Crazyman Flat",
+        "shefId": "CZFO3",
+        "beginDate": "2001-09-01 00:00:00",
+        "countyName": "Klamath",
+        "elevation": 6180.0,
+        "huc": "180102020101",
+        "longitude": -120.94917,
+        "latitude": 42.6381,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1010",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Crazyman Flat.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.94917, 42.63810]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.08718, 44.52147, -122.08718, 44.52147],
+      "properties": {
+        "stationTriplet": "434:OR:SNTL",
+        "state": "OR",
+        "stationId": "434",
+        "networkCode": "SNTL",
+        "name": "Daly Lake",
+        "shefId": "DALO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Linn",
+        "elevation": 3690.0,
+        "huc": "170900060101",
+        "longitude": -122.08718,
+        "latitude": 44.52147,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=434",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Daly Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.08718, 44.52147]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.93012, 44.44650, -119.93012, 44.44650],
+      "properties": {
+        "stationTriplet": "440:OR:SNTL",
+        "state": "OR",
+        "stationId": "440",
+        "networkCode": "SNTL",
+        "name": "Derr.",
+        "shefId": "DERO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Wheeler",
+        "elevation": 5850.0,
+        "huc": "170703040401",
+        "longitude": -119.93012,
+        "latitude": 44.4465,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=440",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Derr..html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.93012, 44.44650]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.14003, 43.18787, -122.14003, 43.18787],
+      "properties": {
+        "stationTriplet": "442:OR:SNTL",
+        "state": "OR",
+        "stationId": "442",
+        "networkCode": "SNTL",
+        "name": "Diamond Lake",
+        "shefId": "DIAO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Douglas",
+        "elevation": 5280.0,
+        "huc": "171003010204",
+        "longitude": -122.14003,
+        "latitude": 43.18787,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=442",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Diamond Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.14003, 43.18787]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.11387, 44.86887, -118.11387, 44.86887],
+      "properties": {
+        "stationTriplet": "464:OR:SNTL",
+        "state": "OR",
+        "stationId": "464",
+        "networkCode": "SNTL",
+        "name": "Eilertson Meadows",
+        "shefId": "EIMO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Baker",
+        "elevation": 5510.0,
+        "huc": "170502030404",
+        "longitude": -118.11387,
+        "latitude": 44.86887,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=464",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Eilertson Meadows.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.11387, 44.86887]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.45383, 45.55808, -118.45383, 45.55808],
+      "properties": {
+        "stationTriplet": "470:OR:SNTL",
+        "state": "OR",
+        "stationId": "470",
+        "networkCode": "SNTL",
+        "name": "Emigrant Springs",
+        "shefId": "ESPO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Umatilla",
+        "elevation": 3800.0,
+        "huc": "170701030501",
+        "longitude": -118.45383,
+        "latitude": 45.55808,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=470",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Emigrant Springs.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.45383, 45.55808]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.63210, 42.70992, -118.63210, 42.70992],
+      "properties": {
+        "stationTriplet": "477:OR:SNTL",
+        "state": "OR",
+        "stationId": "477",
+        "networkCode": "SNTL",
+        "name": "Fish Creek",
+        "shefId": "FCKO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Harney",
+        "elevation": 7660.0,
+        "huc": "171200030107",
+        "longitude": -118.6321,
+        "latitude": 42.70992,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=477",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Fish Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.63210, 42.70992]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.34943, 42.38010, -122.34943, 42.38010],
+      "properties": {
+        "stationTriplet": "479:OR:SNTL",
+        "state": "OR",
+        "stationId": "479",
+        "networkCode": "SNTL",
+        "name": "Fish Lk.",
+        "shefId": "FISO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Jackson",
+        "elevation": 4660.0,
+        "huc": "171003070801",
+        "longitude": -122.34943,
+        "latitude": 42.3801,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=479",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Fish Lk..html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.34943, 42.38010]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.22880, 42.43933, -122.22880, 42.43933],
+      "properties": {
+        "stationTriplet": "483:OR:SNTL",
+        "state": "OR",
+        "stationId": "483",
+        "networkCode": "SNTL",
+        "name": "Fourmile Lake",
+        "shefId": "FRLO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Klamath",
+        "elevation": 5970.0,
+        "huc": "180102030202",
+        "longitude": -122.2288,
+        "latitude": 42.43933,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=483",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Fourmile Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.22880, 42.43933]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.13340, 42.20620, -121.13340, 42.20620],
+      "properties": {
+        "stationTriplet": "945:OR:SNTL",
+        "state": "OR",
+        "stationId": "945",
+        "networkCode": "SNTL",
+        "name": "Gerber Reservoir",
+        "shefId": "GSTO3",
+        "beginDate": "1998-10-01 00:00:00",
+        "countyName": "Klamath",
+        "elevation": 4890.0,
+        "huc": "180102040508",
+        "longitude": -121.1334,
+        "latitude": 42.2062,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=945",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Gerber Reservoir.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.13340, 42.20620]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.31170, 44.76380, -118.31170, 44.76380],
+      "properties": {
+        "stationTriplet": "494:OR:SNTL",
+        "state": "OR",
+        "stationId": "494",
+        "networkCode": "SNTL",
+        "name": "Gold Center",
+        "shefId": "GLDO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Grant",
+        "elevation": 5410.0,
+        "huc": "170702020202",
+        "longitude": -118.3117,
+        "latitude": 44.7638,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=494",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Gold Center.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.31170, 44.76380]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.70415, 45.62237, -121.70415, 45.62237],
+      "properties": {
+        "stationTriplet": "504:OR:SNTL",
+        "state": "OR",
+        "stationId": "504",
+        "networkCode": "SNTL",
+        "name": "Greenpoint",
+        "shefId": "GRPO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Hood River",
+        "elevation": 3310.0,
+        "huc": "170701050603",
+        "longitude": -121.70415,
+        "latitude": 45.62237,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=504",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Greenpoint.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.70415, 45.62237]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.10657, 45.69682, -118.10657, 45.69682],
+      "properties": {
+        "stationTriplet": "523:OR:SNTL",
+        "state": "OR",
+        "stationId": "523",
+        "networkCode": "SNTL",
+        "name": "High Ridge",
+        "shefId": "HIRO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Umatilla",
+        "elevation": 4920.0,
+        "huc": "170701030103",
+        "longitude": -118.10657,
+        "latitude": 45.69682,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=523",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//High Ridge.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.10657, 45.69682]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.85655, 44.42042, -121.85655, 44.42042],
+      "properties": {
+        "stationTriplet": "526:OR:SNTL",
+        "state": "OR",
+        "stationId": "526",
+        "networkCode": "SNTL",
+        "name": "Hogg Pass",
+        "shefId": "HOPO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Linn",
+        "elevation": 4790.0,
+        "huc": "170900040201",
+        "longitude": -121.85655,
+        "latitude": 44.42042,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=526",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Hogg Pass.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.85655, 44.42042]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.56877, 43.66917, -122.56877, 43.66917],
+      "properties": {
+        "stationTriplet": "529:OR:SNTL",
+        "state": "OR",
+        "stationId": "529",
+        "networkCode": "SNTL",
+        "name": "Holland Meadows",
+        "shefId": "HLMO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Lane",
+        "elevation": 4930.0,
+        "huc": "170900020201",
+        "longitude": -122.56877,
+        "latitude": 43.66917,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=529",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Holland Meadows.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.56877, 43.66917]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.37130, 42.21500, -122.37130, 42.21500],
+      "properties": {
+        "stationTriplet": "1158:OR:SNTL",
+        "state": "OR",
+        "stationId": "1158",
+        "networkCode": "SNTL",
+        "name": "Howard Prairie",
+        "shefId": "HOWO3",
+        "beginDate": "2012-09-26 00:00:00",
+        "countyName": "Jackson",
+        "elevation": 4580.0,
+        "huc": "180102060401",
+        "longitude": -122.3713,
+        "latitude": 42.215,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1158",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Howard Prairie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.37130, 42.21500]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.94793, 43.80368, -121.94793, 43.80368],
+      "properties": {
+        "stationTriplet": "545:OR:SNTL",
+        "state": "OR",
+        "stationId": "545",
+        "networkCode": "SNTL",
+        "name": "Irish Taylor",
+        "shefId": "BEDO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Deschutes",
+        "elevation": 5540.0,
+        "huc": "170703010106",
+        "longitude": -121.94793,
+        "latitude": 43.80368,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=545",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Irish Taylor.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.94793, 43.80368]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.16683, 44.38605, -122.16683, 44.38605],
+      "properties": {
+        "stationTriplet": "552:OR:SNTL",
+        "state": "OR",
+        "stationId": "552",
+        "networkCode": "SNTL",
+        "name": "Jump Off Joe",
+        "shefId": "JOJO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Linn",
+        "elevation": 3520.0,
+        "huc": "170900060201",
+        "longitude": -122.16683,
+        "latitude": 44.38605,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=552",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Jump Off Joe.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.16683, 44.38605]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-123.20037, 42.72395, -123.20037, 42.72395],
+      "properties": {
+        "stationTriplet": "558:OR:SNTL",
+        "state": "OR",
+        "stationId": "558",
+        "networkCode": "SNTL",
+        "name": "King Mountain",
+        "shefId": "KIMO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Jackson",
+        "elevation": 4340.0,
+        "huc": "171003020701",
+        "longitude": -123.20037,
+        "latitude": 42.72395,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=558",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//King Mountain.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.20037, 42.72395]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.63752, 44.21007, -118.63752, 44.21007],
+      "properties": {
+        "stationTriplet": "563:OR:SNTL",
+        "state": "OR",
+        "stationId": "563",
+        "networkCode": "SNTL",
+        "name": "Lake Creek R.S.",
+        "shefId": "LKCO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Grant",
+        "elevation": 5240.0,
+        "huc": "170501160102",
+        "longitude": -118.63752,
+        "latitude": 44.21007,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=563",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Lake Creek R.S..html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.63752, 44.21007]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.63752, 44.21007, -118.63752, 44.21007],
+      "properties": {
+        "stationTriplet": "563:OR:SNTL",
+        "state": "OR",
+        "stationId": "563",
+        "networkCode": "SNTL",
+        "name": "Lake Creek R.S.",
+        "shefId": "LKCO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Grant",
+        "elevation": 5240.0,
+        "huc": "170501160102",
+        "longitude": -118.63752,
+        "latitude": 44.21007,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=563",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Lake Creek R.S..html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.63752, 44.21007]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.22565, 44.61297, -122.22565, 44.61297],
+      "properties": {
+        "stationTriplet": "584:OR:SNTL",
+        "state": "OR",
+        "stationId": "584",
+        "networkCode": "SNTL",
+        "name": "Little Meadows",
+        "shefId": "LMDO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Linn",
+        "elevation": 4020.0,
+        "huc": "170900060301",
+        "longitude": -122.22565,
+        "latitude": 44.61297,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=584",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Little Meadows.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.22565, 44.61297]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.84790, 45.27478, -118.84790, 45.27478],
+      "properties": {
+        "stationTriplet": "605:OR:SNTL",
+        "state": "OR",
+        "stationId": "605",
+        "networkCode": "SNTL",
+        "name": "Lucky Strike",
+        "shefId": "LUKO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Umatilla",
+        "elevation": 4970.0,
+        "huc": "170701030606",
+        "longitude": -118.8479,
+        "latitude": 45.27478,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=605",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Lucky Strike.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.84790, 45.27478]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.49585, 45.10513, -119.49585, 45.10513],
+      "properties": {
+        "stationTriplet": "608:OR:SNTL",
+        "state": "OR",
+        "stationId": "608",
+        "networkCode": "SNTL",
+        "name": "Madison Butte",
+        "shefId": "MDBO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Morrow",
+        "elevation": 5150.0,
+        "huc": "170702041101",
+        "longitude": -119.49585,
+        "latitude": 45.10513,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=608",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Madison Butte.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.49585, 45.10513]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.97365, 44.59397, -121.97365, 44.59397],
+      "properties": {
+        "stationTriplet": "614:OR:SNTL",
+        "state": "OR",
+        "stationId": "614",
+        "networkCode": "SNTL",
+        "name": "Marion Forks",
+        "shefId": "MRFO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Linn",
+        "elevation": 2590.0,
+        "huc": "170900050205",
+        "longitude": -121.97365,
+        "latitude": 44.59397,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=614",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Marion Forks.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.97365, 44.59397]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.87292, 44.21030, -121.87292, 44.21030],
+      "properties": {
+        "stationTriplet": "619:OR:SNTL",
+        "state": "OR",
+        "stationId": "619",
+        "networkCode": "SNTL",
+        "name": "Mckenzie",
+        "shefId": "MKZO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Lane",
+        "elevation": 4770.0,
+        "huc": "170900040207",
+        "longitude": -121.87292,
+        "latitude": 44.2103,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=619",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Mckenzie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.87292, 44.21030]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-117.94883, 45.98210, -117.94883, 45.98210],
+      "properties": {
+        "stationTriplet": "1079:OR:SNTL",
+        "state": "OR",
+        "stationId": "1079",
+        "networkCode": "SNTL",
+        "name": "Milk Shakes",
+        "shefId": "MLKO3",
+        "beginDate": "2007-05-12 00:00:00",
+        "countyName": "Wallowa",
+        "elevation": 5580.0,
+        "huc": "170701020201",
+        "longitude": -117.94883,
+        "latitude": 45.9821,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1079",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Milk Shakes.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.94883, 45.98210]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-123.27563, 45.24755, -123.27563, 45.24755],
+      "properties": {
+        "stationTriplet": "1084:OR:SNTL",
+        "state": "OR",
+        "stationId": "1084",
+        "networkCode": "SNTL",
+        "name": "Miller Woods",
+        "shefId": "MWDO3",
+        "beginDate": "2006-09-22 00:00:00",
+        "countyName": "Yamhill",
+        "elevation": 420.0,
+        "huc": "170900080606",
+        "longitude": -123.27563,
+        "latitude": 45.24755,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1084",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Miller Woods.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.27563, 45.24755]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-117.68747, 45.27173, -117.68747, 45.27173],
+      "properties": {
+        "stationTriplet": "647:OR:SNTL",
+        "state": "OR",
+        "stationId": "647",
+        "networkCode": "SNTL",
+        "name": "Moss Springs",
+        "shefId": "MOSO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Union",
+        "elevation": 5760.0,
+        "huc": "170601040702",
+        "longitude": -117.68747,
+        "latitude": 45.27173,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=647",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Moss Springs.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.68747, 45.27173]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.71580, 45.32097, -121.71580, 45.32097],
+      "properties": {
+        "stationTriplet": "651:OR:SNTL",
+        "state": "OR",
+        "stationId": "651",
+        "networkCode": "SNTL",
+        "name": "Mt Hood Test Site",
+        "shefId": "MTHO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Clackamas",
+        "elevation": 5370.0,
+        "huc": "170800010302",
+        "longitude": -121.7158,
+        "latitude": 45.32097,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=651",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Mt Hood Test Site.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.71580, 45.32097]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-117.17373, 45.26522, -117.17373, 45.26522],
+      "properties": {
+        "stationTriplet": "653:OR:SNTL",
+        "state": "OR",
+        "stationId": "653",
+        "networkCode": "SNTL",
+        "name": "Mt. Howard",
+        "shefId": "MHWO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Wallowa",
+        "elevation": 7910.0,
+        "huc": "170601050102",
+        "longitude": -117.17373,
+        "latitude": 45.26522,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=653",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Mt. Howard.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.17373, 45.26522]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.73673, 45.25362, -121.73673, 45.25362],
+      "properties": {
+        "stationTriplet": "655:OR:SNTL",
+        "state": "OR",
+        "stationId": "655",
+        "networkCode": "SNTL",
+        "name": "Mud Ridge",
+        "shefId": "MUDO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Clackamas",
+        "elevation": 4070.0,
+        "huc": "170800010302",
+        "longitude": -121.73673,
+        "latitude": 45.25362,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=655",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Mud Ridge.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.73673, 45.25362]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.97982, 43.51185, -121.97982, 43.51185],
+      "properties": {
+        "stationTriplet": "660:OR:SNTL",
+        "state": "OR",
+        "stationId": "660",
+        "networkCode": "SNTL",
+        "name": "New Crescent Lake",
+        "shefId": "NCLO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Klamath",
+        "elevation": 4910.0,
+        "huc": "170703020205",
+        "longitude": -121.97982,
+        "latitude": 43.51185,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=660",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//New Crescent Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.97982, 43.51185]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.00283, 45.55050, -122.00283, 45.55050],
+      "properties": {
+        "stationTriplet": "666:OR:SNTL",
+        "state": "OR",
+        "stationId": "666",
+        "networkCode": "SNTL",
+        "name": "North Fork",
+        "shefId": "NFRO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Multnomah",
+        "elevation": 3060.0,
+        "huc": "170800010503",
+        "longitude": -122.00283,
+        "latitude": 45.5505,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=666",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//North Fork.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.00283, 45.55050]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.33110, 44.42917, -120.33110, 44.42917],
+      "properties": {
+        "stationTriplet": "671:OR:SNTL",
+        "state": "OR",
+        "stationId": "671",
+        "networkCode": "SNTL",
+        "name": "Ochoco Meadows",
+        "shefId": "OCMO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Crook",
+        "elevation": 5430.0,
+        "huc": "170703050201",
+        "longitude": -120.3311,
+        "latitude": 44.42917,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=671",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Ochoco Meadows.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.33110, 44.42917]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.93252, 45.04148, -121.93252, 45.04148],
+      "properties": {
+        "stationTriplet": "687:OR:SNTL",
+        "state": "OR",
+        "stationId": "687",
+        "networkCode": "SNTL",
+        "name": "Peavine Ridge",
+        "shefId": "PVRO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Clackamas",
+        "elevation": 3420.0,
+        "huc": "170900110306",
+        "longitude": -121.93252,
+        "latitude": 45.04148,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=687",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Peavine Ridge.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.93252, 45.04148]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.82533, 42.31923, -120.82533, 42.31923],
+      "properties": {
+        "stationTriplet": "706:OR:SNTL",
+        "state": "OR",
+        "stationId": "706",
+        "networkCode": "SNTL",
+        "name": "Quartz Mountain",
+        "shefId": "QRMO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Lake",
+        "elevation": 5720.0,
+        "huc": "180102020404",
+        "longitude": -120.82533,
+        "latitude": 42.31923,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=706",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Quartz Mountain.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.82533, 42.31923]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.21272, 43.65887, -122.21272, 43.65887],
+      "properties": {
+        "stationTriplet": "710:OR:SNTL",
+        "state": "OR",
+        "stationId": "710",
+        "networkCode": "SNTL",
+        "name": "Railroad Overpass",
+        "shefId": "RROO3",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Lane",
+        "elevation": 2680.0,
+        "huc": "170900010302",
+        "longitude": -122.21272,
+        "latitude": 43.65887,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=710",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Railroad Overpass.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.21272, 43.65887]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.70428, 45.46430, -121.70428, 45.46430],
+      "properties": {
+        "stationTriplet": "712:OR:SNTL",
+        "state": "OR",
+        "stationId": "712",
+        "networkCode": "SNTL",
+        "name": "Red Hill",
+        "shefId": "REDO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Hood River",
+        "elevation": 4410.0,
+        "huc": "170701050505",
+        "longitude": -121.70428,
+        "latitude": 45.4643,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=712",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Red Hill.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.70428, 45.46430]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.03063, 43.90098, -122.03063, 43.90098],
+      "properties": {
+        "stationTriplet": "719:OR:SNTL",
+        "state": "OR",
+        "stationId": "719",
+        "networkCode": "SNTL",
+        "name": "Roaring River",
+        "shefId": "RORO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Lane",
+        "elevation": 4950.0,
+        "huc": "170900040302",
+        "longitude": -122.03063,
+        "latitude": 43.90098,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=719",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Roaring River.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.03063, 43.90098]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.83842, 44.00883, -118.83842, 44.00883],
+      "properties": {
+        "stationTriplet": "721:OR:SNTL",
+        "state": "OR",
+        "stationId": "721",
+        "networkCode": "SNTL",
+        "name": "Rock Springs",
+        "shefId": "RCSO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Grant",
+        "elevation": 5290.0,
+        "huc": "170501160204",
+        "longitude": -118.83842,
+        "latitude": 44.00883,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=721",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Rock Springs.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.83842, 44.00883]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-123.37315, 45.54477, -123.37315, 45.54477],
+      "properties": {
+        "stationTriplet": "726:OR:SNTL",
+        "state": "OR",
+        "stationId": "726",
+        "networkCode": "SNTL",
+        "name": "Saddle Mountain",
+        "shefId": "SDMO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Washington",
+        "elevation": 3110.0,
+        "huc": "170900100201",
+        "longitude": -123.37315,
+        "latitude": 45.54477,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=726",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Saddle Mountain.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.37315, 45.54477]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.11758, 43.61193, -122.11758, 43.61193],
+      "properties": {
+        "stationTriplet": "729:OR:SNTL",
+        "state": "OR",
+        "stationId": "729",
+        "networkCode": "SNTL",
+        "name": "Salt Creek Falls",
+        "shefId": "SCFO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Lane",
+        "elevation": 4220.0,
+        "huc": "170900010301",
+        "longitude": -122.11758,
+        "latitude": 43.61193,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=729",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Salt Creek Falls.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.11758, 43.61193]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.94502, 44.43503, -121.94502, 44.43503],
+      "properties": {
+        "stationTriplet": "733:OR:SNTL",
+        "state": "OR",
+        "stationId": "733",
+        "networkCode": "SNTL",
+        "name": "Santiam Jct.",
+        "shefId": "SAJO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Linn",
+        "elevation": 3740.0,
+        "huc": "170900040201",
+        "longitude": -121.94502,
+        "latitude": 44.43503,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=733",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Santiam Jct..html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.94502, 44.43503]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-117.16522, 45.00107, -117.16522, 45.00107],
+      "properties": {
+        "stationTriplet": "736:OR:SNTL",
+        "state": "OR",
+        "stationId": "736",
+        "networkCode": "SNTL",
+        "name": "Schneider Meadows",
+        "shefId": "SCHO3",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Baker",
+        "elevation": 5400.0,
+        "huc": "170502010603",
+        "longitude": -117.16522,
+        "latitude": 45.00107,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=736",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Schneider Meadows.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.16522, 45.00107]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-123.29857, 45.52688, -123.29857, 45.52688],
+      "properties": {
+        "stationTriplet": "743:OR:SNTL",
+        "state": "OR",
+        "stationId": "743",
+        "networkCode": "SNTL",
+        "name": "Seine Creek",
+        "shefId": "SECO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Washington",
+        "elevation": 2060.0,
+        "huc": "170900100203",
+        "longitude": -123.29857,
+        "latitude": 45.52688,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=743",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Seine Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.29857, 45.52688]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.14165, 42.69825, -122.14165, 42.69825],
+      "properties": {
+        "stationTriplet": "745:OR:SNTL",
+        "state": "OR",
+        "stationId": "745",
+        "networkCode": "SNTL",
+        "name": "Sevenmile Marsh",
+        "shefId": "SVMO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Klamath",
+        "elevation": 5700.0,
+        "huc": "180102030104",
+        "longitude": -122.14165,
+        "latitude": 42.69825,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=745",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Sevenmile Marsh.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.14165, 42.69825]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.18123, 42.95615, -121.18123, 42.95615],
+      "properties": {
+        "stationTriplet": "756:OR:SNTL",
+        "state": "OR",
+        "stationId": "756",
+        "networkCode": "SNTL",
+        "name": "Silver Creek",
+        "shefId": "SVCO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Lake",
+        "elevation": 5740.0,
+        "huc": "171200050206",
+        "longitude": -121.18123,
+        "latitude": 42.95615,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=756",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Silver Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.18123, 42.95615]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.68785, 42.75333, -118.68785, 42.75333],
+      "properties": {
+        "stationTriplet": "759:OR:SNTL",
+        "state": "OR",
+        "stationId": "759",
+        "networkCode": "SNTL",
+        "name": "Silvies",
+        "shefId": "SLVO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Harney",
+        "elevation": 6990.0,
+        "huc": "171200030201",
+        "longitude": -118.68785,
+        "latitude": 42.75333,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=759",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Silvies.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.68785, 42.75333]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.04053, 44.30325, -122.04053, 44.30325],
+      "properties": {
+        "stationTriplet": "1167:OR:SNTL",
+        "state": "OR",
+        "stationId": "1167",
+        "networkCode": "SNTL",
+        "name": "Smith Ridge",
+        "shefId": "SMTO3",
+        "beginDate": "2011-10-01 00:00:00",
+        "countyName": "Linn",
+        "elevation": 3270.0,
+        "huc": "170900040203",
+        "longitude": -122.04053,
+        "latitude": 44.30325,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1167",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Smith Ridge.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.04053, 44.30325]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.54013, 43.94885, -119.54013, 43.94885],
+      "properties": {
+        "stationTriplet": "767:OR:SNTL",
+        "state": "OR",
+        "stationId": "767",
+        "networkCode": "SNTL",
+        "name": "Snow Mountain",
+        "shefId": "SNWO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Harney",
+        "elevation": 6230.0,
+        "huc": "171200020501",
+        "longitude": -119.54013,
+        "latitude": 43.94885,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=767",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Snow Mountain.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.54013, 43.94885]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.03125, 45.44575, -122.03125, 45.44575],
+      "properties": {
+        "stationTriplet": "925:OR:SNTL",
+        "state": "OR",
+        "stationId": "925",
+        "networkCode": "SNTL",
+        "name": "South Fork Bull Run",
+        "shefId": "SFBO3",
+        "beginDate": "1997-09-18 00:00:00",
+        "countyName": "Clackamas",
+        "elevation": 2690.0,
+        "huc": "170800010504",
+        "longitude": -122.03125,
+        "latitude": 45.44575,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=925",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//South Fork Bull Run.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.03125, 45.44575]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.02162, 44.26423, -119.02162, 44.26423],
+      "properties": {
+        "stationTriplet": "789:OR:SNTL",
+        "state": "OR",
+        "stationId": "789",
+        "networkCode": "SNTL",
+        "name": "Starr Ridge",
+        "shefId": "STRO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Grant",
+        "elevation": 5250.0,
+        "huc": "171200020102",
+        "longitude": -119.02162,
+        "latitude": 44.26423,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=789",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Starr Ridge.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.02162, 44.26423]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.83610, 42.12587, -120.83610, 42.12587],
+      "properties": {
+        "stationTriplet": "794:OR:SNTL",
+        "state": "OR",
+        "stationId": "794",
+        "networkCode": "SNTL",
+        "name": "Strawberry",
+        "shefId": "STWO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Lake",
+        "elevation": 5770.0,
+        "huc": "180102040501",
+        "longitude": -120.8361,
+        "latitude": 42.12587,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=794",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Strawberry.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.83610, 42.12587]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.80158, 42.69570, -120.80158, 42.69570],
+      "properties": {
+        "stationTriplet": "800:OR:SNTL",
+        "state": "OR",
+        "stationId": "800",
+        "networkCode": "SNTL",
+        "name": "Summer Rim",
+        "shefId": "SMRO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Lake",
+        "elevation": 7080.0,
+        "huc": "180102020103",
+        "longitude": -120.80158,
+        "latitude": 42.6957,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=800",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Summer Rim.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.80158, 42.69570]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.13808, 43.44907, -122.13808, 43.44907],
+      "properties": {
+        "stationTriplet": "801:OR:SNTL",
+        "state": "OR",
+        "stationId": "801",
+        "networkCode": "SNTL",
+        "name": "Summit Lake",
+        "shefId": "SMLO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Klamath",
+        "elevation": 5610.0,
+        "huc": "170703020203",
+        "longitude": -122.13808,
+        "latitude": 43.44907,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=801",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Summit Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.13808, 43.44907]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.97715, 42.78637, -121.97715, 42.78637],
+      "properties": {
+        "stationTriplet": "1078:OR:SNTL",
+        "state": "OR",
+        "stationId": "1078",
+        "networkCode": "SNTL",
+        "name": "Sun Pass",
+        "shefId": "SSSO3",
+        "beginDate": "2006-06-27 00:00:00",
+        "countyName": "Klamath",
+        "elevation": 5400.0,
+        "huc": "180102010602",
+        "longitude": -121.97715,
+        "latitude": 42.78637,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1078",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Sun Pass.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.97715, 42.78637]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.68002, 42.41323, -121.68002, 42.41323],
+      "properties": {
+        "stationTriplet": "1077:OR:SNTL",
+        "state": "OR",
+        "stationId": "1077",
+        "networkCode": "SNTL",
+        "name": "Swan Lake Mtn",
+        "shefId": "SWNO3",
+        "beginDate": "2006-10-01 00:00:00",
+        "countyName": "Klamath",
+        "elevation": 6830.0,
+        "huc": "180102040802",
+        "longitude": -121.68002,
+        "latitude": 42.41323,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1077",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Swan Lake Mtn.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.68002, 42.41323]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.42592, 42.69108, -121.42592, 42.69108],
+      "properties": {
+        "stationTriplet": "810:OR:SNTL",
+        "state": "OR",
+        "stationId": "810",
+        "networkCode": "SNTL",
+        "name": "Taylor Butte",
+        "shefId": "TYBO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Klamath",
+        "elevation": 5030.0,
+        "huc": "180102020606",
+        "longitude": -121.42592,
+        "latitude": 42.69108,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=810",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Taylor Butte.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.42592, 42.69108]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-117.55067, 45.07707, -117.55067, 45.07707],
+      "properties": {
+        "stationTriplet": "812:OR:SNTL",
+        "state": "OR",
+        "stationId": "812",
+        "networkCode": "SNTL",
+        "name": "Taylor Green",
+        "shefId": "TYLO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Baker",
+        "elevation": 5740.0,
+        "huc": "170601040502",
+        "longitude": -117.55067,
+        "latitude": 45.07707,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=812",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Taylor Green.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.55067, 45.07707]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-121.64095, 44.14425, -121.64095, 44.14425],
+      "properties": {
+        "stationTriplet": "815:OR:SNTL",
+        "state": "OR",
+        "stationId": "815",
+        "networkCode": "SNTL",
+        "name": "Three Creeks Meadow",
+        "shefId": "TCMO3",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Deschutes",
+        "elevation": 5690.0,
+        "huc": "170703010601",
+        "longitude": -121.64095,
+        "latitude": 44.14425,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=815",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Three Creeks Meadow.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.64095, 44.14425]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.42617, 44.65567, -118.42617, 44.65567],
+      "properties": {
+        "stationTriplet": "821:OR:SNTL",
+        "state": "OR",
+        "stationId": "821",
+        "networkCode": "SNTL",
+        "name": "Tipton",
+        "shefId": "TIPO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Baker",
+        "elevation": 5150.0,
+        "huc": "170502020101",
+        "longitude": -118.42617,
+        "latitude": 44.65567,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=821",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Tipton.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.42617, 44.65567]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-122.42537, 43.22718, -122.42537, 43.22718],
+      "properties": {
+        "stationTriplet": "1044:OR:SNTL",
+        "state": "OR",
+        "stationId": "1044",
+        "networkCode": "SNTL",
+        "name": "Toketee Airstrip",
+        "shefId": "TOKO3",
+        "beginDate": "2003-10-01 00:00:00",
+        "countyName": "Douglas",
+        "elevation": 3240.0,
+        "huc": "171003010404",
+        "longitude": -122.42537,
+        "latitude": 43.22718,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1044",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Toketee Airstrip.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.42537, 43.22718]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-118.15192, 45.06703, -118.15192, 45.06703],
+      "properties": {
+        "stationTriplet": "873:OR:SNTL",
+        "state": "OR",
+        "stationId": "873",
+        "networkCode": "SNTL",
+        "name": "Wolf Creek",
+        "shefId": "WFCO3",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Union",
+        "elevation": 5630.0,
+        "huc": "170502030601",
+        "longitude": -118.15192,
+        "latitude": 45.06703,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=873",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Wolf Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.15192, 45.06703]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1302 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [-162.28333, 58.18600, -133.83217, 67.93333],
+  "features": [
+    {
+      "type": "Feature",
+      "bbox": [-150.88967, 61.74967, -150.88967, 61.74967],
+      "properties": {
+        "stationTriplet": "1267:AK:SNTL",
+        "state": "AK",
+        "stationId": "1267",
+        "networkCode": "SNTL",
+        "name": "Alexander Lake",
+        "shefId": "ALXA2",
+        "beginDate": "2014-08-28 00:00:00",
+        "countyName": "Matanuska-Susitna",
+        "elevation": 160.0,
+        "huc": "190205051106",
+        "longitude": -150.88967,
+        "latitude": 61.74967,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1267",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Alexander Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-150.88967, 61.74967]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-141.23376, 64.78969, -141.23376, 64.78969],
+      "properties": {
+        "stationTriplet": "1189:AK:SNTL",
+        "state": "AK",
+        "stationId": "1189",
+        "networkCode": "SNTL",
+        "name": "American Creek",
+        "shefId": "AMCA2",
+        "beginDate": "2011-08-04 00:00:00",
+        "countyName": "Southeast Fairbanks",
+        "elevation": 1050.0,
+        "huc": "190705050504",
+        "longitude": -141.23376,
+        "latitude": 64.78969,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1189",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//American Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-141.23376, 64.78969]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-151.31500, 59.85972, -151.31500, 59.85972],
+      "properties": {
+        "stationTriplet": "1062:AK:SNTL",
+        "state": "AK",
+        "stationId": "1062",
+        "networkCode": "SNTL",
+        "name": "Anchor River Divide",
+        "shefId": "ARDA2",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Kenai Peninsula",
+        "elevation": 1653.0,
+        "huc": "190203010701",
+        "longitude": -151.315,
+        "latitude": 59.85972,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1062",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Anchor River Divide.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-151.31500, 59.85972]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-149.66683, 61.11483, -149.66683, 61.11483],
+      "properties": {
+        "stationTriplet": "1070:AK:SNTL",
+        "state": "AK",
+        "stationId": "1070",
+        "networkCode": "SNTL",
+        "name": "Anchorage Hillside",
+        "shefId": "HILA2",
+        "beginDate": "2004-10-01 00:00:00",
+        "countyName": "Anchorage",
+        "elevation": 2080.0,
+        "huc": "190204010601",
+        "longitude": -149.66683,
+        "latitude": 61.11483,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1070",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Anchorage Hillside.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.66683, 61.11483]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-151.53333, 66.91667, -151.53333, 66.91667],
+      "properties": {
+        "stationTriplet": "1182:AK:SNTL",
+        "state": "AK",
+        "stationId": "1182",
+        "networkCode": "SNTL",
+        "name": "Bettles Field",
+        "shefId": "BFLA2",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Yukon-Koyukuk",
+        "elevation": 640.0,
+        "huc": "190901012604",
+        "longitude": -151.53333,
+        "latitude": 66.91667,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1182",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Bettles Field.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-151.53333, 66.91667]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-147.21823, 64.75793, -147.21823, 64.75793],
+      "properties": {
+        "stationTriplet": "1260:AK:SNTL",
+        "state": "AK",
+        "stationId": "1260",
+        "networkCode": "SNTL",
+        "name": "Chena Lakes",
+        "shefId": "CLNA2",
+        "beginDate": "2020-08-20 00:00:00",
+        "countyName": "Fairbanks North Star",
+        "elevation": 500.0,
+        "huc": "190803060901",
+        "longitude": -147.21823,
+        "latitude": 64.75793,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1260",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Chena Lakes.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-147.21823, 64.75793]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-142.04900, 62.06900, -142.04900, 62.06900],
+      "properties": {
+        "stationTriplet": "1093:AK:SNTL",
+        "state": "AK",
+        "stationId": "1093",
+        "networkCode": "SNTL",
+        "name": "Chisana",
+        "shefId": "CNAA2",
+        "beginDate": "2007-10-01 00:00:00",
+        "countyName": "Valdez-Cordova",
+        "elevation": 3320.0,
+        "huc": "190803010305",
+        "longitude": -142.049,
+        "latitude": 62.069,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1093",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Chisana.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-142.04900, 62.06900]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-150.18300, 67.25333, -150.18300, 67.25333],
+      "properties": {
+        "stationTriplet": "958:AK:SNTL",
+        "state": "AK",
+        "stationId": "958",
+        "networkCode": "SNTL",
+        "name": "Coldfoot",
+        "shefId": "COFA2",
+        "beginDate": "1994-10-01 00:00:00",
+        "countyName": "Yukon-Koyukuk",
+        "elevation": 1040.0,
+        "huc": "190901010604",
+        "longitude": -150.183,
+        "latitude": 67.25333,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=958",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Coldfoot.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-150.18300, 67.25333]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-149.69360, 60.39027, -149.69360, 60.39027],
+      "properties": {
+        "stationTriplet": "959:AK:SNTL",
+        "state": "AK",
+        "stationId": "959",
+        "networkCode": "SNTL",
+        "name": "Cooper Lake",
+        "shefId": "CORA2",
+        "beginDate": "1981-10-01 00:00:00",
+        "countyName": "Kenai Peninsula",
+        "elevation": 1200.0,
+        "huc": "190203021205",
+        "longitude": -149.6936,
+        "latitude": 60.39027,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=959",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Cooper Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.69360, 60.39027]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-147.73617, 64.86534, -147.73617, 64.86534],
+      "properties": {
+        "stationTriplet": "1302:AK:SNTL",
+        "state": "AK",
+        "stationId": "1302",
+        "networkCode": "SNTL",
+        "name": "Creamers Field",
+        "shefId": "SCFA2",
+        "beginDate": "2021-08-11 00:00:00",
+        "countyName": "Fairbanks North Star",
+        "elevation": 440.0,
+        "huc": "190803060907",
+        "longitude": -147.73617,
+        "latitude": 64.86534,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1302",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Creamers Field.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-147.73617, 64.86534]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-149.09637, 61.59858, -149.09637, 61.59858],
+      "properties": {
+        "stationTriplet": "953:AK:SNTL",
+        "state": "AK",
+        "stationId": "953",
+        "networkCode": "SNTL",
+        "name": "East Palmer",
+        "shefId": "",
+        "beginDate": "2018-07-23 00:00:00",
+        "countyName": "Matanuska-Susitna",
+        "elevation": 230.0,
+        "huc": "190204020709",
+        "longitude": -149.09637,
+        "latitude": 61.59858,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=953",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//East Palmer.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.09637, 61.59858]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-149.62117, 60.19033, -149.62117, 60.19033],
+      "properties": {
+        "stationTriplet": "1092:AK:SNTL",
+        "state": "AK",
+        "stationId": "1092",
+        "networkCode": "SNTL",
+        "name": "Exit Glacier",
+        "shefId": "EXGA2",
+        "beginDate": "2011-07-05 00:00:00",
+        "countyName": "Kenai Peninsula",
+        "elevation": 400.0,
+        "huc": "190202020508",
+        "longitude": -149.62117,
+        "latitude": 60.19033,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1092",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Exit Glacier.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.62117, 60.19033]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-147.80000, 64.85000, -147.80000, 64.85000],
+      "properties": {
+        "stationTriplet": "1174:AK:SNTL",
+        "state": "AK",
+        "stationId": "1174",
+        "networkCode": "SNTL",
+        "name": "Fairbanks F.O.",
+        "shefId": "FOFA2",
+        "beginDate": "1981-10-01 00:00:00",
+        "countyName": "Fairbanks North Star",
+        "elevation": 450.0,
+        "huc": "190803060907",
+        "longitude": -147.8,
+        "latitude": 64.85,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1174",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Fairbanks F.O..html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-147.80000, 64.85000]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-145.63050, 63.20267, -145.63050, 63.20267],
+      "properties": {
+        "stationTriplet": "1268:AK:SNTL",
+        "state": "AK",
+        "stationId": "1268",
+        "networkCode": "SNTL",
+        "name": "Fielding Lake",
+        "shefId": "FLDA2",
+        "beginDate": "2014-08-07 00:00:00",
+        "countyName": "Valdez-Cordova",
+        "elevation": 3000.0,
+        "huc": "190803040302",
+        "longitude": -145.6305,
+        "latitude": 63.20267,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1268",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Fielding Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-145.63050, 63.20267]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-145.63050, 63.20267, -145.63050, 63.20267],
+      "properties": {
+        "stationTriplet": "1268:AK:SNTL",
+        "state": "AK",
+        "stationId": "1268",
+        "networkCode": "SNTL",
+        "name": "Fielding Lake",
+        "shefId": "FLDA2",
+        "beginDate": "2014-08-07 00:00:00",
+        "countyName": "Valdez-Cordova",
+        "elevation": 3000.0,
+        "huc": "190803040302",
+        "longitude": -145.6305,
+        "latitude": 63.20267,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1268",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Fielding Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-145.63050, 63.20267]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-136.28123, 59.39617, -136.28123, 59.39617],
+      "properties": {
+        "stationTriplet": "1285:AK:SNTL",
+        "state": "AK",
+        "stationId": "1285",
+        "networkCode": "SNTL",
+        "name": "Flower Mountain",
+        "shefId": "FLOA2",
+        "beginDate": "2017-08-10 00:00:00",
+        "countyName": "Haines",
+        "elevation": 2510.0,
+        "huc": "190103031206",
+        "longitude": -136.28123,
+        "latitude": 59.39617,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1285",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Flower Mountain.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-136.28123, 59.39617]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-149.26880, 61.74722, -149.26880, 61.74722],
+      "properties": {
+        "stationTriplet": "641:AK:SNTL",
+        "state": "AK",
+        "stationId": "641",
+        "networkCode": "SNTL",
+        "name": "Frostbite Bottom",
+        "shefId": "FBBA2",
+        "beginDate": "2019-02-07 00:00:00",
+        "countyName": "Matanuska-Susitna",
+        "elevation": 2700.0,
+        "huc": "190205051202",
+        "longitude": -149.2688,
+        "latitude": 61.74722,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=641",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Frostbite Bottom.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.26880, 61.74722]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-156.71497, 64.69662, -156.71497, 64.69662],
+      "properties": {
+        "stationTriplet": "429:AK:SNTL",
+        "state": "AK",
+        "stationId": "429",
+        "networkCode": "SNTL",
+        "name": "Galena AK",
+        "shefId": "GANA2",
+        "beginDate": "2018-08-16 00:00:00",
+        "countyName": "Yukon-Koyukuk",
+        "elevation": 410.0,
+        "huc": "190902051104",
+        "longitude": -156.71497,
+        "latitude": 64.69662,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=429",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Galena AK.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-156.71497, 64.69662]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-149.06313, 60.60832, -149.06313, 60.60832],
+      "properties": {
+        "stationTriplet": "956:AK:SNTL",
+        "state": "AK",
+        "stationId": "956",
+        "networkCode": "SNTL",
+        "name": "Grandview",
+        "shefId": "GRVA2",
+        "beginDate": "1982-10-01 00:00:00",
+        "countyName": "Kenai Peninsula",
+        "elevation": 1100.0,
+        "huc": "190203021001",
+        "longitude": -149.06313,
+        "latitude": 60.60832,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=956",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Grandview.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.06313, 60.60832]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-145.39993, 63.94382, -145.39993, 63.94382],
+      "properties": {
+        "stationTriplet": "963:AK:SNTL",
+        "state": "AK",
+        "stationId": "963",
+        "networkCode": "SNTL",
+        "name": "Granite Crk",
+        "shefId": "GCKA2",
+        "beginDate": "1985-11-01 00:00:00",
+        "countyName": "Southeast Fairbanks",
+        "elevation": 1240.0,
+        "huc": "190803031306",
+        "longitude": -145.39993,
+        "latitude": 63.94382,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=963",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Granite Crk.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-145.39993, 63.94382]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-149.34228, 60.25965, -149.34228, 60.25965],
+      "properties": {
+        "stationTriplet": "964:AK:SNTL",
+        "state": "AK",
+        "stationId": "964",
+        "networkCode": "SNTL",
+        "name": "Grouse Creek Divide",
+        "shefId": "GCRA2",
+        "beginDate": "1988-10-01 00:00:00",
+        "countyName": "Kenai Peninsula",
+        "elevation": 700.0,
+        "huc": "190203020902",
+        "longitude": -149.34228,
+        "latitude": 60.25965,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=964",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Grouse Creek Divide.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.34228, 60.25965]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-145.37513, 62.40962, -145.37513, 62.40962],
+      "properties": {
+        "stationTriplet": "2222:AK:SNTL",
+        "state": "AK",
+        "stationId": "2222",
+        "networkCode": "SNTL",
+        "name": "Gulkana River",
+        "shefId": "GSNA2",
+        "beginDate": "2018-06-16 00:00:00",
+        "countyName": "Valdez-Cordova",
+        "elevation": 1830.0,
+        "huc": "190201020604",
+        "longitude": -145.37513,
+        "latitude": 62.40962,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=2222",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Gulkana River.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-145.37513, 62.40962]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-134.86448, 58.69652, -134.86448, 58.69652],
+      "properties": {
+        "stationTriplet": "1270:AK:SNTL",
+        "state": "AK",
+        "stationId": "1270",
+        "networkCode": "SNTL",
+        "name": "Heen Latinee",
+        "shefId": "DCSA2",
+        "beginDate": "2015-10-02 13:00:00",
+        "countyName": "Juneau",
+        "elevation": 2065.0,
+        "huc": "190103010401",
+        "longitude": -134.86448,
+        "latitude": 58.69652,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1270",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Heen Latinee.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-134.86448, 58.69652]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-149.28390, 61.79001, -149.28390, 61.79001],
+      "properties": {
+        "stationTriplet": "1091:AK:SNTL",
+        "state": "AK",
+        "stationId": "1091",
+        "networkCode": "SNTL",
+        "name": "Independence Mine",
+        "shefId": "HATA2",
+        "beginDate": "1997-10-01 00:00:00",
+        "countyName": "Matanuska-Susitna",
+        "elevation": 3550.0,
+        "huc": "190205051202",
+        "longitude": -149.2839,
+        "latitude": 61.79001,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1091",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Independence Mine.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.28390, 61.79001]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-149.47950, 61.06767, -149.47950, 61.06767],
+      "properties": {
+        "stationTriplet": "946:AK:SNTL",
+        "state": "AK",
+        "stationId": "946",
+        "networkCode": "SNTL",
+        "name": "Indian Pass",
+        "shefId": "INPA2",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Anchorage",
+        "elevation": 2350.0,
+        "huc": "190204010402",
+        "longitude": -149.4795,
+        "latitude": 61.06767,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=946",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Indian Pass.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.47950, 61.06767]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-141.32693, 64.15290, -141.32693, 64.15290],
+      "properties": {
+        "stationTriplet": "1275:AK:SNTL",
+        "state": "AK",
+        "stationId": "1275",
+        "networkCode": "SNTL",
+        "name": "Jack Wade Jct",
+        "shefId": "JWJA2",
+        "beginDate": "2015-10-01 00:00:00",
+        "countyName": "Southeast Fairbanks",
+        "elevation": 3585.0,
+        "huc": "190705022204",
+        "longitude": -141.32693,
+        "latitude": 64.1529,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1275",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Jack Wade Jct.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-141.32693, 64.15290]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-150.99400, 63.54167, -150.99400, 63.54167],
+      "properties": {
+        "stationTriplet": "1072:AK:SNTL",
+        "state": "AK",
+        "stationId": "1072",
+        "networkCode": "SNTL",
+        "name": "Kantishna",
+        "shefId": "KTSA2",
+        "beginDate": "2004-10-01 00:00:00",
+        "countyName": "Denali",
+        "elevation": 1550.0,
+        "huc": "190803101805",
+        "longitude": -150.994,
+        "latitude": 63.54167,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1072",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Kantishna.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-150.99400, 63.54167]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-162.28333, 67.93333, -162.28333, 67.93333],
+      "properties": {
+        "stationTriplet": "1175:AK:SNTL",
+        "state": "AK",
+        "stationId": "1175",
+        "networkCode": "SNTL",
+        "name": "Kelly Station",
+        "shefId": "KLLA2",
+        "beginDate": "1991-10-01 00:00:00",
+        "countyName": "Northwest Arctic",
+        "elevation": 310.0,
+        "huc": "190504030802",
+        "longitude": -162.28333,
+        "latitude": 67.93333,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1175",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Kelly Station.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-162.28333, 67.93333]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-150.47517, 60.72700, -150.47517, 60.72700],
+      "properties": {
+        "stationTriplet": "966:AK:SNTL",
+        "state": "AK",
+        "stationId": "966",
+        "networkCode": "SNTL",
+        "name": "Kenai Moose Pens",
+        "shefId": "KMPA2",
+        "beginDate": "1982-10-01 00:00:00",
+        "countyName": "Kenai Peninsula",
+        "elevation": 300.0,
+        "huc": "190203021601",
+        "longitude": -150.47517,
+        "latitude": 60.727,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=966",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Kenai Moose Pens.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-150.47517, 60.72700]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-146.73390, 65.12422, -146.73390, 65.12422],
+      "properties": {
+        "stationTriplet": "947:AK:SNTL",
+        "state": "AK",
+        "stationId": "947",
+        "networkCode": "SNTL",
+        "name": "Little Chena Ridge",
+        "shefId": "LCHA2",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Fairbanks North Star",
+        "elevation": 2000.0,
+        "huc": "190803060706",
+        "longitude": -146.7339,
+        "latitude": 65.12422,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=947",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Little Chena Ridge.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-146.73390, 65.12422]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-133.83217, 58.18600, -133.83217, 58.18600],
+      "properties": {
+        "stationTriplet": "1001:AK:SNTL",
+        "state": "AK",
+        "stationId": "1001",
+        "networkCode": "SNTL",
+        "name": "Long Lake",
+        "shefId": "LLKA2",
+        "beginDate": "1966-10-01 00:00:00",
+        "countyName": "Juneau",
+        "elevation": 850.0,
+        "huc": "190102060505",
+        "longitude": -133.83217,
+        "latitude": 58.186,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1001",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Long Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-133.83217, 58.18600]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-142.70967, 61.34783, -142.70967, 61.34783],
+      "properties": {
+        "stationTriplet": "1096:AK:SNTL",
+        "state": "AK",
+        "stationId": "1096",
+        "networkCode": "SNTL",
+        "name": "May Creek",
+        "shefId": "SNCA2",
+        "beginDate": "2006-10-01 00:00:00",
+        "countyName": "Valdez-Cordova",
+        "elevation": 1610.0,
+        "huc": "190201031603",
+        "longitude": -142.70967,
+        "latitude": 61.34783,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1096",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//May Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-142.70967, 61.34783]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-155.61020, 62.94652, -155.61020, 62.94652],
+      "properties": {
+        "stationTriplet": "785:AK:SNTL",
+        "state": "AK",
+        "stationId": "785",
+        "networkCode": "SNTL",
+        "name": "McGrath",
+        "shefId": "MCSA2",
+        "beginDate": "2019-08-13 00:00:00",
+        "countyName": "Yukon-Koyukuk",
+        "elevation": 340.0,
+        "huc": "190304050502",
+        "longitude": -155.6102,
+        "latitude": 62.94652,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=785",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//McGrath.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-155.61020, 62.94652]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-151.25133, 59.74433, -151.25133, 59.74433],
+      "properties": {
+        "stationTriplet": "1003:AK:SNTL",
+        "state": "AK",
+        "stationId": "1003",
+        "networkCode": "SNTL",
+        "name": "Mcneil Canyon",
+        "shefId": "MCNA2",
+        "beginDate": "1985-10-01 00:00:00",
+        "countyName": "Kenai Peninsula",
+        "elevation": 1320.0,
+        "huc": "190203010806",
+        "longitude": -151.25133,
+        "latitude": 59.74433,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1003",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Mcneil Canyon.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-151.25133, 59.74433]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-147.64633, 63.30533, -147.64633, 63.30533],
+      "properties": {
+        "stationTriplet": "1094:AK:SNTL",
+        "state": "AK",
+        "stationId": "1094",
+        "networkCode": "SNTL",
+        "name": "Monahan Flat",
+        "shefId": "MNFA2",
+        "beginDate": "1983-10-01 00:00:00",
+        "countyName": "Matanuska-Susitna",
+        "elevation": 2710.0,
+        "huc": "190205010304",
+        "longitude": -147.64633,
+        "latitude": 63.30533,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1094",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Monahan Flat.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-147.64633, 63.30533]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-145.87067, 65.07833, -145.87067, 65.07833],
+      "properties": {
+        "stationTriplet": "949:AK:SNTL",
+        "state": "AK",
+        "stationId": "949",
+        "networkCode": "SNTL",
+        "name": "Monument Creek",
+        "shefId": "MNCA2",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Fairbanks North Star",
+        "elevation": 1850.0,
+        "huc": "190803060402",
+        "longitude": -145.87067,
+        "latitude": 65.07833,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=949",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Monument Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-145.87067, 65.07833]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-148.99917, 61.37727, -148.99917, 61.37727],
+      "properties": {
+        "stationTriplet": "1035:AK:SNTL",
+        "state": "AK",
+        "stationId": "1035",
+        "networkCode": "SNTL",
+        "name": "Moraine",
+        "shefId": "MORA2",
+        "beginDate": "2001-10-01 00:00:00",
+        "countyName": "Anchorage",
+        "elevation": 2100.0,
+        "huc": "190204010103",
+        "longitude": -148.99917,
+        "latitude": 61.37727,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1035",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Moraine.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-148.99917, 61.37727]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-149.08617, 60.95983, -149.08617, 60.95983],
+      "properties": {
+        "stationTriplet": "1103:AK:SNTL",
+        "state": "AK",
+        "stationId": "1103",
+        "networkCode": "SNTL",
+        "name": "Mt. Alyeska",
+        "shefId": "YESA2",
+        "beginDate": "1971-10-01 00:00:00",
+        "countyName": "Anchorage",
+        "elevation": 1540.0,
+        "huc": "190203020702",
+        "longitude": -149.08617,
+        "latitude": 60.95983,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1103",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Mt. Alyeska.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.08617, 60.95983]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-145.74500, 60.55000, -145.74500, 60.55000],
+      "properties": {
+        "stationTriplet": "1073:AK:SNTL",
+        "state": "AK",
+        "stationId": "1073",
+        "networkCode": "SNTL",
+        "name": "Mt. Eyak",
+        "shefId": "EYKA2",
+        "beginDate": "2004-10-01 00:00:00",
+        "countyName": "Valdez-Cordova",
+        "elevation": 1405.0,
+        "huc": "190202010200",
+        "longitude": -145.745,
+        "latitude": 60.55,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1073",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Mt. Eyak.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-145.74500, 60.55000]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-146.15133, 65.25113, -146.15133, 65.25113],
+      "properties": {
+        "stationTriplet": "948:AK:SNTL",
+        "state": "AK",
+        "stationId": "948",
+        "networkCode": "SNTL",
+        "name": "Mt. Ryan",
+        "shefId": "MTRA2",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Fairbanks North Star",
+        "elevation": 2800.0,
+        "huc": "190803060404",
+        "longitude": -146.15133,
+        "latitude": 65.25113,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=948",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Mt. Ryan.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-146.15133, 65.25113]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-146.20945, 64.85033, -146.20945, 64.85033],
+      "properties": {
+        "stationTriplet": "950:AK:SNTL",
+        "state": "AK",
+        "stationId": "950",
+        "networkCode": "SNTL",
+        "name": "Munson Ridge",
+        "shefId": "MSOA2",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Fairbanks North Star",
+        "elevation": 3100.0,
+        "huc": "190803060602",
+        "longitude": -146.20945,
+        "latitude": 64.85033,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=950",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Munson Ridge.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-146.20945, 64.85033]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-141.40918, 62.83329, -141.40918, 62.83329],
+      "properties": {
+        "stationTriplet": "1301:AK:SNTL",
+        "state": "AK",
+        "stationId": "1301",
+        "networkCode": "SNTL",
+        "name": "Paradise Hill",
+        "shefId": "SPHA2",
+        "beginDate": "2021-07-21 00:00:00",
+        "countyName": "Southeast Fairbanks",
+        "elevation": 2010.0,
+        "huc": "190803010807",
+        "longitude": -141.40918,
+        "latitude": 62.83329,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1301",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Paradise Hill.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-141.40918, 62.83329]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-150.02667, 61.38980, -150.02667, 61.38980],
+      "properties": {
+        "stationTriplet": "1002:AK:SNTL",
+        "state": "AK",
+        "stationId": "1002",
+        "networkCode": "SNTL",
+        "name": "Point Mackenzie",
+        "shefId": "PTMA2",
+        "beginDate": "1983-10-01 00:00:00",
+        "countyName": "Matanuska-Susitna",
+        "elevation": 250.0,
+        "huc": "190204010805",
+        "longitude": -150.02667,
+        "latitude": 61.3898,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1002",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Point Mackenzie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-150.02667, 61.38980]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-151.84768, 59.35065, -151.84768, 59.35065],
+      "properties": {
+        "stationTriplet": "987:AK:SNTL",
+        "state": "AK",
+        "stationId": "987",
+        "networkCode": "SNTL",
+        "name": "Port Graham",
+        "shefId": "PGRA2",
+        "beginDate": "1999-10-01 00:00:00",
+        "countyName": "Kenai Peninsula",
+        "elevation": 300.0,
+        "huc": "190203011208",
+        "longitude": -151.84768,
+        "latitude": 59.35065,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=987",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Port Graham.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-151.84768, 59.35065]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-149.53128, 60.61713, -149.53128, 60.61713],
+      "properties": {
+        "stationTriplet": "955:AK:SNTL",
+        "state": "AK",
+        "stationId": "955",
+        "networkCode": "SNTL",
+        "name": "Summit Creek",
+        "shefId": "SUUA2",
+        "beginDate": "1988-10-01 00:00:00",
+        "countyName": "Kenai Peninsula",
+        "elevation": 1400.0,
+        "huc": "190203020401",
+        "longitude": -149.53128,
+        "latitude": 60.61713,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=955",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Summit Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.53128, 60.61713]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-150.04167, 62.13333, -150.04167, 62.13333],
+      "properties": {
+        "stationTriplet": "967:AK:SNTL",
+        "state": "AK",
+        "stationId": "967",
+        "networkCode": "SNTL",
+        "name": "Susitna Valley High",
+        "shefId": "SUVA2",
+        "beginDate": "1986-10-01 00:00:00",
+        "countyName": "Matanuska-Susitna",
+        "elevation": 375.0,
+        "huc": "190205050105",
+        "longitude": -150.04167,
+        "latitude": 62.13333,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=967",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Susitna Valley High.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-150.04167, 62.13333]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-153.91772, 60.98243, -153.91772, 60.98243],
+      "properties": {
+        "stationTriplet": "1266:AK:SNTL",
+        "state": "AK",
+        "stationId": "1266",
+        "networkCode": "SNTL",
+        "name": "Telaquana Lake",
+        "shefId": "TQUA2",
+        "beginDate": "2014-07-09 00:00:00",
+        "countyName": "Bethel",
+        "elevation": 1275.0,
+        "huc": "190304052303",
+        "longitude": -153.91772,
+        "latitude": 60.98243,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1266",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Telaquana Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-153.91772, 60.98243]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-145.51667, 64.94583, -145.51667, 64.94583],
+      "properties": {
+        "stationTriplet": "951:AK:SNTL",
+        "state": "AK",
+        "stationId": "951",
+        "networkCode": "SNTL",
+        "name": "Teuchet Creek",
+        "shefId": "TEUA2",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Fairbanks North Star",
+        "elevation": 1640.0,
+        "huc": "190803060301",
+        "longitude": -145.51667,
+        "latitude": 64.94583,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=951",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Teuchet Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-145.51667, 64.94583]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-142.98164, 63.35320, -142.98164, 63.35320],
+      "properties": {
+        "stationTriplet": "2080:AK:SNTL",
+        "state": "AK",
+        "stationId": "2080",
+        "networkCode": "SNTL",
+        "name": "Tok",
+        "shefId": "TOSA2",
+        "beginDate": "2002-10-01 00:00:00",
+        "countyName": "Southeast Fairbanks",
+        "elevation": 1630.0,
+        "huc": "190803020903",
+        "longitude": -142.98164,
+        "latitude": 63.3532,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=2080",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Tok.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-142.98164, 63.35320]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-150.77617, 62.63000, -150.77617, 62.63000],
+      "properties": {
+        "stationTriplet": "1089:AK:SNTL",
+        "state": "AK",
+        "stationId": "1089",
+        "networkCode": "SNTL",
+        "name": "Tokositna Valley",
+        "shefId": "TKVA2",
+        "beginDate": "2005-10-01 00:00:00",
+        "countyName": "Matanuska-Susitna",
+        "elevation": 850.0,
+        "huc": "190205020903",
+        "longitude": -150.77617,
+        "latitude": 62.63,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1089",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Tokositna Valley.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-150.77617, 62.63000]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-149.18325, 60.78043, -149.18325, 60.78043],
+      "properties": {
+        "stationTriplet": "954:AK:SNTL",
+        "state": "AK",
+        "stationId": "954",
+        "networkCode": "SNTL",
+        "name": "Turnagain Pass",
+        "shefId": "TUGA2",
+        "beginDate": "1981-10-01 00:00:00",
+        "countyName": "Kenai Peninsula",
+        "elevation": 1880.0,
+        "huc": "190203020406",
+        "longitude": -149.18325,
+        "latitude": 60.78043,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=954",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Turnagain Pass.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-149.18325, 60.78043]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-144.93317, 65.10000, -144.93317, 65.10000],
+      "properties": {
+        "stationTriplet": "952:AK:SNTL",
+        "state": "AK",
+        "stationId": "952",
+        "networkCode": "SNTL",
+        "name": "Upper Chena",
+        "shefId": "UCEA2",
+        "beginDate": "1983-10-01 00:00:00",
+        "countyName": "Fairbanks North Star",
+        "elevation": 2850.0,
+        "huc": "190803060102",
+        "longitude": -144.93317,
+        "latitude": 65.1,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=952",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Upper Chena.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-144.93317, 65.10000]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-146.59200, 65.36710, -146.59200, 65.36710],
+      "properties": {
+        "stationTriplet": "1090:AK:SNTL",
+        "state": "AK",
+        "stationId": "1090",
+        "networkCode": "SNTL",
+        "name": "Upper Nome Creek",
+        "shefId": "UNCA2",
+        "beginDate": "2005-10-01 00:00:00",
+        "countyName": "Yukon-Koyukuk",
+        "elevation": 2520.0,
+        "huc": "190804020304",
+        "longitude": -146.592,
+        "latitude": 65.3671,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1090",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Upper Nome Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-146.59200, 65.36710]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-145.64807, 61.19112, -145.64807, 61.19112],
+      "properties": {
+        "stationTriplet": "1055:AK:SNTL",
+        "state": "AK",
+        "stationId": "1055",
+        "networkCode": "SNTL",
+        "name": "Upper Tsaina River",
+        "shefId": "UPPA2",
+        "beginDate": "2002-10-01 00:00:00",
+        "countyName": "Valdez-Cordova",
+        "elevation": 1750.0,
+        "huc": "190201040203",
+        "longitude": -145.64807,
+        "latitude": 61.19112,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1055",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Upper Tsaina River.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-145.64807, 61.19112]
+      }
+    }
+  ]
+}

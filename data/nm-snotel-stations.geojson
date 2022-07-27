@@ -1,0 +1,702 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [-108.94556, 32.92342, -105.19534, 36.99396],
+  "features": [
+    {
+      "type": "Feature",
+      "bbox": [-106.31543, 36.51174, -106.31543, 36.51174],
+      "properties": {
+        "stationTriplet": "316:NM:SNTL",
+        "state": "NM",
+        "stationId": "316",
+        "networkCode": "SNTL",
+        "name": "Bateman",
+        "shefId": "BAMN5",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Rio Arriba",
+        "elevation": 9249.0,
+        "huc": "130201020901",
+        "longitude": -106.31543,
+        "latitude": 36.51174,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=316",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Bateman.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.31543, 36.51174]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.65723, 36.95606, -106.65723, 36.95606],
+      "properties": {
+        "stationTriplet": "394:NM:SNTL",
+        "state": "NM",
+        "stationId": "394",
+        "networkCode": "SNTL",
+        "name": "Chamita",
+        "shefId": "CHAN5",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Rio Arriba",
+        "elevation": 8383.0,
+        "huc": "130201020204",
+        "longitude": -106.65723,
+        "latitude": 36.95606,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=394",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Chamita.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.65723, 36.95606]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.80584, 35.70730, -105.80584, 35.70730],
+      "properties": {
+        "stationTriplet": "921:NM:SNTL",
+        "state": "NM",
+        "stationId": "921",
+        "networkCode": "SNTL",
+        "name": "Elk Cabin",
+        "shefId": "ELCN5",
+        "beginDate": "1996-10-01 00:00:00",
+        "countyName": "Santa Fe",
+        "elevation": 8239.0,
+        "huc": "130202010102",
+        "longitude": -105.80584,
+        "latitude": 35.7073,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=921",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Elk Cabin.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.80584, 35.70730]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-108.94327, 33.73687, -108.94327, 33.73687],
+      "properties": {
+        "stationTriplet": "486:NM:SNTL",
+        "state": "NM",
+        "stationId": "486",
+        "networkCode": "SNTL",
+        "name": "Frisco Divide",
+        "shefId": "FRDN5",
+        "beginDate": "1971-10-01 00:00:00",
+        "countyName": "Catron",
+        "elevation": 8013.0,
+        "huc": "150400040303",
+        "longitude": -108.94327,
+        "latitude": 33.73687,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=486",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Frisco Divide.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-108.94327, 33.73687]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.55742, 36.19418, -105.55742, 36.19418],
+      "properties": {
+        "stationTriplet": "491:NM:SNTL",
+        "state": "NM",
+        "stationId": "491",
+        "networkCode": "SNTL",
+        "name": "Gallegos Peak",
+        "shefId": "GLGN5",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Taos",
+        "elevation": 9480.0,
+        "huc": "130201010502",
+        "longitude": -105.55742,
+        "latitude": 36.19418,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=491",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Gallegos Peak.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.55742, 36.19418]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.54805, 36.00469, -106.54805, 36.00469],
+      "properties": {
+        "stationTriplet": "1173:NM:SNTL",
+        "state": "NM",
+        "stationId": "1173",
+        "networkCode": "SNTL",
+        "name": "Garita Peak",
+        "shefId": "GAPN5",
+        "beginDate": "2016-09-23 00:00:00",
+        "countyName": "Rio Arriba",
+        "elevation": 10115.0,
+        "huc": "130202020201",
+        "longitude": -106.54805,
+        "latitude": 36.00469,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1173",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Garita Peak.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.54805, 36.00469]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.26370, 36.71632, -106.26370, 36.71632],
+      "properties": {
+        "stationTriplet": "532:NM:SNTL",
+        "state": "NM",
+        "stationId": "532",
+        "networkCode": "SNTL",
+        "name": "Hopewell",
+        "shefId": "HPWN5",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Rio Arriba",
+        "elevation": 10095.0,
+        "huc": "130201021401",
+        "longitude": -106.2637,
+        "latitude": 36.71632,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=532",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Hopewell.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.26370, 36.71632]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.83203, 33.36089, -107.83203, 33.36089],
+      "properties": {
+        "stationTriplet": "595:NM:SNTL",
+        "state": "NM",
+        "stationId": "595",
+        "networkCode": "SNTL",
+        "name": "Lookout Mountain",
+        "shefId": "LKTN5",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Sierra",
+        "elevation": 8509.0,
+        "huc": "150400010402",
+        "longitude": -107.83203,
+        "latitude": 33.36089,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=595",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Lookout Mountain.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.83203, 33.36089]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-107.86982, 33.00796, -107.86982, 33.00796],
+      "properties": {
+        "stationTriplet": "1048:NM:SNTL",
+        "state": "NM",
+        "stationId": "1048",
+        "networkCode": "SNTL",
+        "name": "Mcknight Cabin",
+        "shefId": "MCKN5",
+        "beginDate": "2003-09-25 00:00:00",
+        "countyName": "Grant",
+        "elevation": 9242.0,
+        "huc": "130302020103",
+        "longitude": -107.86982,
+        "latitude": 33.00796,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1048",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Mcknight Cabin.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-107.86982, 33.00796]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-108.94556, 36.17716, -108.94556, 36.17716],
+      "properties": {
+        "stationTriplet": "1138:NM:SNTL",
+        "state": "NM",
+        "stationId": "1138",
+        "networkCode": "SNTL",
+        "name": "Navajo Whiskey Ck",
+        "shefId": "WCTN5",
+        "beginDate": "2009-05-12 00:00:00",
+        "countyName": "San Juan",
+        "elevation": 9064.0,
+        "huc": "140802040206",
+        "longitude": -108.94556,
+        "latitude": 36.17716,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1138",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Navajo Whiskey Ck.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-108.94556, 36.17716]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.25988, 36.99396, -105.25988, 36.99396],
+      "properties": {
+        "stationTriplet": "665:NM:SNTL",
+        "state": "NM",
+        "stationId": "665",
+        "networkCode": "SNTL",
+        "name": "North Costilla",
+        "shefId": "NCSN5",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Taos",
+        "elevation": 10598.0,
+        "huc": "130201010101",
+        "longitude": -105.25988,
+        "latitude": 36.99396,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=665",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//North Costilla.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.25988, 36.99396]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.33038, 36.40869, -105.33038, 36.40869],
+      "properties": {
+        "stationTriplet": "1170:NM:SNTL",
+        "state": "NM",
+        "stationId": "1170",
+        "networkCode": "SNTL",
+        "name": "Palo",
+        "shefId": "TACN5",
+        "beginDate": "2010-08-09 00:00:00",
+        "countyName": "Taos",
+        "elevation": 9343.0,
+        "huc": "130201010601",
+        "longitude": -105.33038,
+        "latitude": 36.40869,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1170",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Palo.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.33038, 36.40869]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.39179, 35.92195, -106.39179, 35.92195],
+      "properties": {
+        "stationTriplet": "708:NM:SNTL",
+        "state": "NM",
+        "stationId": "708",
+        "networkCode": "SNTL",
+        "name": "Quemazon",
+        "shefId": "QMZN5",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Los Alamos",
+        "elevation": 9507.0,
+        "huc": "130201011303",
+        "longitude": -106.39179,
+        "latitude": 35.92195,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=708",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Quemazon.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.39179, 35.92195]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.34145, 36.69935, -105.34145, 36.69935],
+      "properties": {
+        "stationTriplet": "715:NM:SNTL",
+        "state": "NM",
+        "stationId": "715",
+        "networkCode": "SNTL",
+        "name": "Red River Pass #2",
+        "shefId": "RRPN5",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Taos",
+        "elevation": 9855.0,
+        "huc": "130201010301",
+        "longitude": -105.34145,
+        "latitude": 36.69935,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=715",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Red River Pass #2.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.34145, 36.69935]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-108.27404, 35.23658, -108.27404, 35.23658],
+      "properties": {
+        "stationTriplet": "933:NM:SNTL",
+        "state": "NM",
+        "stationId": "933",
+        "networkCode": "SNTL",
+        "name": "Rice Park",
+        "shefId": "RPRN5",
+        "beginDate": "1998-08-10 00:00:00",
+        "countyName": "Cibola",
+        "elevation": 8497.0,
+        "huc": "130202070203",
+        "longitude": -108.27404,
+        "latitude": 35.23658,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=933",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Rice Park.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-108.27404, 35.23658]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.62949, 36.07196, -105.62949, 36.07196],
+      "properties": {
+        "stationTriplet": "1254:NM:SNTL",
+        "state": "NM",
+        "stationId": "1254",
+        "networkCode": "SNTL",
+        "name": "Rio Santa Barbara",
+        "shefId": "SBAN5",
+        "beginDate": "2013-09-24 00:00:00",
+        "countyName": "Taos",
+        "elevation": 10664.0,
+        "huc": "130201010905",
+        "longitude": -105.62949,
+        "latitude": 36.07196,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1254",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Rio Santa Barbara.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.62949, 36.07196]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.22657, 36.85967, -106.22657, 36.85967],
+      "properties": {
+        "stationTriplet": "1172:NM:SNTL",
+        "state": "NM",
+        "stationId": "1172",
+        "networkCode": "SNTL",
+        "name": "San Antonio Sink",
+        "shefId": "SSCN5",
+        "beginDate": "2011-07-14 00:00:00",
+        "countyName": "Rio Arriba",
+        "elevation": 9143.0,
+        "huc": "130100050301",
+        "longitude": -106.22657,
+        "latitude": 36.85967,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1172",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//San Antonio Sink.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.22657, 36.85967]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.78487, 35.77154, -105.78487, 35.77154],
+      "properties": {
+        "stationTriplet": "922:NM:SNTL",
+        "state": "NM",
+        "stationId": "922",
+        "networkCode": "SNTL",
+        "name": "Santa Fe",
+        "shefId": "SFSN5",
+        "beginDate": "1996-10-01 00:00:00",
+        "countyName": "Santa Fe",
+        "elevation": 11465.0,
+        "huc": "130202010102",
+        "longitude": -105.78487,
+        "latitude": 35.77154,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=922",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Santa Fe.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.78487, 35.77154]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.83408, 36.00152, -106.83408, 36.00152],
+      "properties": {
+        "stationTriplet": "744:NM:SNTL",
+        "state": "NM",
+        "stationId": "744",
+        "networkCode": "SNTL",
+        "name": "Senorita Divide #2",
+        "shefId": "SENN5",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Rio Arriba",
+        "elevation": 8569.0,
+        "huc": "130202020102",
+        "longitude": -106.83408,
+        "latitude": 36.00152,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=744",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Senorita Divide #2.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.83408, 36.00152]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.23920, 36.78765, -105.23920, 36.78765],
+      "properties": {
+        "stationTriplet": "1169:NM:SNTL",
+        "state": "NM",
+        "stationId": "1169",
+        "networkCode": "SNTL",
+        "name": "Shuree",
+        "shefId": "SHUN5",
+        "beginDate": "2010-08-09 00:00:00",
+        "countyName": "Taos",
+        "elevation": 10092.0,
+        "huc": "130201010102",
+        "longitude": -105.2392,
+        "latitude": 36.78765,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1169",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Shuree.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.23920, 36.78765]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.79467, 33.40682, -105.79467, 33.40682],
+      "properties": {
+        "stationTriplet": "1034:NM:SNTL",
+        "state": "NM",
+        "stationId": "1034",
+        "networkCode": "SNTL",
+        "name": "Sierra Blanca",
+        "shefId": "SIEN5",
+        "beginDate": "2002-09-30 00:00:00",
+        "countyName": "Lincoln",
+        "elevation": 10268.0,
+        "huc": "130600080103",
+        "longitude": -105.79467,
+        "latitude": 33.40682,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1034",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Sierra Blanca.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.79467, 33.40682]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-108.14546, 32.92342, -108.14546, 32.92342],
+      "properties": {
+        "stationTriplet": "755:NM:SNTL",
+        "state": "NM",
+        "stationId": "755",
+        "networkCode": "SNTL",
+        "name": "Signal Peak",
+        "shefId": "SGNN5",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Grant",
+        "elevation": 8405.0,
+        "huc": "150400010803",
+        "longitude": -108.14546,
+        "latitude": 32.92342,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=755",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Signal Peak.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-108.14546, 32.92342]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-108.70711, 33.36960, -108.70711, 33.36960],
+      "properties": {
+        "stationTriplet": "757:NM:SNTL",
+        "state": "NM",
+        "stationId": "757",
+        "networkCode": "SNTL",
+        "name": "Silver Creek Divide",
+        "shefId": "SCDN5",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Catron",
+        "elevation": 9096.0,
+        "huc": "150400040605",
+        "longitude": -108.70711,
+        "latitude": 33.3696,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=757",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Silver Creek Divide.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-108.70711, 33.36960]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.45617, 36.58195, -105.45617, 36.58195],
+      "properties": {
+        "stationTriplet": "1168:NM:SNTL",
+        "state": "NM",
+        "stationId": "1168",
+        "networkCode": "SNTL",
+        "name": "Taos Powderhorn",
+        "shefId": "TABN5",
+        "beginDate": "2010-08-09 00:00:00",
+        "countyName": "Taos",
+        "elevation": 11045.0,
+        "huc": "130201010701",
+        "longitude": -105.45617,
+        "latitude": 36.58195,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1168",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Taos Powderhorn.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.45617, 36.58195]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.35944, 36.54099, -105.35944, 36.54099],
+      "properties": {
+        "stationTriplet": "1307:NM:SNTL",
+        "state": "NM",
+        "stationId": "1307",
+        "networkCode": "SNTL",
+        "name": "Taos Pueblo",
+        "shefId": "TPSN5",
+        "beginDate": "2021-09-21 00:00:00",
+        "countyName": "Colfax",
+        "elevation": 11020.0,
+        "huc": "130201010602",
+        "longitude": -105.35944,
+        "latitude": 36.54099,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1307",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Taos Pueblo.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.35944, 36.54099]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.19534, 36.47498, -105.19534, 36.47498],
+      "properties": {
+        "stationTriplet": "934:NM:SNTL",
+        "state": "NM",
+        "stationId": "934",
+        "networkCode": "SNTL",
+        "name": "Tolby",
+        "shefId": "TOLN5",
+        "beginDate": "1998-08-10 00:00:00",
+        "countyName": "Colfax",
+        "elevation": 10220.0,
+        "huc": "110800020107",
+        "longitude": -105.19534,
+        "latitude": 36.47498,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=934",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Tolby.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.19534, 36.47498]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.52706, 36.12790, -105.52706, 36.12790],
+      "properties": {
+        "stationTriplet": "1083:NM:SNTL",
+        "state": "NM",
+        "stationId": "1083",
+        "networkCode": "SNTL",
+        "name": "Tres Ritos",
+        "shefId": "TREN5",
+        "beginDate": "2006-09-01 00:00:00",
+        "countyName": "Taos",
+        "elevation": 8755.0,
+        "huc": "130201010903",
+        "longitude": -105.52706,
+        "latitude": 36.1279,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1083",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Tres Ritos.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.52706, 36.12790]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-106.81361, 36.02653, -106.81361, 36.02653],
+      "properties": {
+        "stationTriplet": "1017:NM:SNTL",
+        "state": "NM",
+        "stationId": "1017",
+        "networkCode": "SNTL",
+        "name": "Vacas Locas",
+        "shefId": "VACN5",
+        "beginDate": "2001-10-01 00:00:00",
+        "countyName": "Rio Arriba",
+        "elevation": 9364.0,
+        "huc": "130202020102",
+        "longitude": -106.81361,
+        "latitude": 36.02653,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1017",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Vacas Locas.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-106.81361, 36.02653]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-105.54337, 35.77584, -105.54337, 35.77584],
+      "properties": {
+        "stationTriplet": "854:NM:SNTL",
+        "state": "NM",
+        "stationId": "854",
+        "networkCode": "SNTL",
+        "name": "Wesner Springs",
+        "shefId": "WSSN5",
+        "beginDate": "1988-10-01 00:00:00",
+        "countyName": "San Miguel",
+        "elevation": 11151.0,
+        "huc": "130600010802",
+        "longitude": -105.54337,
+        "latitude": 35.77584,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=854",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Wesner Springs.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-105.54337, 35.77584]
+      }
+    }
+  ]
+}

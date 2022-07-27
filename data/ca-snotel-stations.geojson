@@ -1,0 +1,870 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [-120.79192, 38.07298, -119.23433, 41.99127],
+  "features": [
+    {
+      "type": "Feature",
+      "bbox": [-120.79192, 41.23583, -120.79192, 41.23583],
+      "properties": {
+        "stationTriplet": "301:CA:SNTL",
+        "state": "CA",
+        "stationId": "301",
+        "networkCode": "SNTL",
+        "name": "Adin Mtn",
+        "shefId": "ADMC1",
+        "beginDate": "1983-10-01 00:00:00",
+        "countyName": "Modoc",
+        "elevation": 6190.0,
+        "huc": "180200021403",
+        "longitude": -120.79192,
+        "latitude": 41.23583,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=301",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Adin Mtn.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.79192, 41.23583]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.92437, 38.60800, -119.92437, 38.60800],
+      "properties": {
+        "stationTriplet": "356:CA:SNTL",
+        "state": "CA",
+        "stationId": "356",
+        "networkCode": "SNTL",
+        "name": "Blue Lakes",
+        "shefId": "BLAC1",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Alpine",
+        "elevation": 8067.0,
+        "huc": "180400120101",
+        "longitude": -119.92437,
+        "latitude": 38.608,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=356",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Blue Lakes.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.92437, 38.60800]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.89420, 38.71943, -119.89420, 38.71943],
+      "properties": {
+        "stationTriplet": "1051:CA:SNTL",
+        "state": "CA",
+        "stationId": "1051",
+        "networkCode": "SNTL",
+        "name": "Burnside Lake",
+        "shefId": "BSKC1",
+        "beginDate": "2003-10-01 00:00:00",
+        "countyName": "Alpine",
+        "elevation": 8129.0,
+        "huc": "160502010107",
+        "longitude": -119.8942,
+        "latitude": 38.71943,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1051",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Burnside Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.89420, 38.71943]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.00220, 38.69270, -120.00220, 38.69270],
+      "properties": {
+        "stationTriplet": "1067:CA:SNTL",
+        "state": "CA",
+        "stationId": "1067",
+        "networkCode": "SNTL",
+        "name": "Carson Pass",
+        "shefId": "CXSC1",
+        "beginDate": "2004-10-01 00:00:00",
+        "countyName": "Alpine",
+        "elevation": 8360.0,
+        "huc": "180201290101",
+        "longitude": -120.0022,
+        "latitude": 38.6927,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1067",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Carson Pass.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.00220, 38.69270]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.30250, 41.58233, -120.30250, 41.58233],
+      "properties": {
+        "stationTriplet": "391:CA:SNTL",
+        "state": "CA",
+        "stationId": "391",
+        "networkCode": "SNTL",
+        "name": "Cedar Pass",
+        "shefId": "CDRC1",
+        "beginDate": "1977-10-01 00:00:00",
+        "countyName": "Modoc",
+        "elevation": 7030.0,
+        "huc": "180200020603",
+        "longitude": -120.3025,
+        "latitude": 41.58233,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=391",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Cedar Pass.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.30250, 41.58233]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.75202, 41.89318, -120.75202, 41.89318],
+      "properties": {
+        "stationTriplet": "977:CA:SNTL",
+        "state": "CA",
+        "stationId": "977",
+        "networkCode": "SNTL",
+        "name": "Crowder Flat",
+        "shefId": "CRWC1",
+        "beginDate": "1999-10-01 00:00:00",
+        "countyName": "Modoc",
+        "elevation": 5170.0,
+        "huc": "180102040103",
+        "longitude": -120.75202,
+        "latitude": 41.89318,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=977",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Crowder Flat.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.75202, 41.89318]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.36807, 39.32565, -120.36807, 39.32565],
+      "properties": {
+        "stationTriplet": "428:CA:SNTL",
+        "state": "CA",
+        "stationId": "428",
+        "networkCode": "SNTL",
+        "name": "Css Lab",
+        "shefId": "CSSC1",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Nevada",
+        "elevation": 6894.0,
+        "huc": "180201250602",
+        "longitude": -120.36807,
+        "latitude": 39.32565,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=428",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Css Lab.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.36807, 39.32565]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.18033, 41.99127, -120.18033, 41.99127],
+      "properties": {
+        "stationTriplet": "446:CA:SNTL",
+        "state": "CA",
+        "stationId": "446",
+        "networkCode": "SNTL",
+        "name": "Dismal Swamp",
+        "shefId": "DMLC1",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Modoc",
+        "elevation": 7360.0,
+        "huc": "171200070304",
+        "longitude": -120.18033,
+        "latitude": 41.99127,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=446",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Dismal Swamp.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.18033, 41.99127]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.18033, 41.99127, -120.18033, 41.99127],
+      "properties": {
+        "stationTriplet": "446:CA:SNTL",
+        "state": "CA",
+        "stationId": "446",
+        "networkCode": "SNTL",
+        "name": "Dismal Swamp",
+        "shefId": "DMLC1",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Modoc",
+        "elevation": 7360.0,
+        "huc": "171200070304",
+        "longitude": -120.18033,
+        "latitude": 41.99127,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=446",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Dismal Swamp.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.18033, 41.99127]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.80468, 38.54970, -119.80468, 38.54970],
+      "properties": {
+        "stationTriplet": "462:CA:SNTL",
+        "state": "CA",
+        "stationId": "462",
+        "networkCode": "SNTL",
+        "name": "Ebbetts Pass",
+        "shefId": "EBTC1",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Alpine",
+        "elevation": 8661.0,
+        "huc": "160502010104",
+        "longitude": -119.80468,
+        "latitude": 38.5497,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=462",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Ebbetts Pass.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.80468, 38.54970]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.07950, 38.84900, -120.07950, 38.84900],
+      "properties": {
+        "stationTriplet": "463:CA:SNTL",
+        "state": "CA",
+        "stationId": "463",
+        "networkCode": "SNTL",
+        "name": "Echo Peak",
+        "shefId": "ECOC1",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "El Dorado",
+        "elevation": 7653.0,
+        "huc": "160501010303",
+        "longitude": -120.0795,
+        "latitude": 38.849,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=463",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Echo Peak.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.07950, 38.84900]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.05450, 38.93403, -120.05450, 38.93403],
+      "properties": {
+        "stationTriplet": "473:CA:SNTL",
+        "state": "CA",
+        "stationId": "473",
+        "networkCode": "SNTL",
+        "name": "Fallen Leaf",
+        "shefId": "FLFC1",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "El Dorado",
+        "elevation": 6242.0,
+        "huc": "160501010401",
+        "longitude": -120.0545,
+        "latitude": 38.93403,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=473",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Fallen Leaf.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.05450, 38.93403]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.95970, 38.68245, -119.95970, 38.68245],
+      "properties": {
+        "stationTriplet": "1049:CA:SNTL",
+        "state": "CA",
+        "stationId": "1049",
+        "networkCode": "SNTL",
+        "name": "Forestdale Creek",
+        "shefId": "FDCC1",
+        "beginDate": "2003-10-01 00:00:00",
+        "countyName": "Alpine",
+        "elevation": 8017.0,
+        "huc": "160502010301",
+        "longitude": -119.9597,
+        "latitude": 38.68245,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1049",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Forestdale Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.95970, 38.68245]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.60805, 40.68799, -120.60805, 40.68799],
+      "properties": {
+        "stationTriplet": "1277:CA:SNTL",
+        "state": "CA",
+        "stationId": "1277",
+        "networkCode": "SNTL",
+        "name": "Fredonyer Peak",
+        "shefId": "FPKC1",
+        "beginDate": "2016-10-07 00:00:00",
+        "countyName": "Lassen",
+        "elevation": 7208.0,
+        "huc": "180800030304",
+        "longitude": -120.60805,
+        "latitude": 40.68799,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1277",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Fredonyer Peak.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.60805, 40.68799]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.93740, 38.85190, -119.93740, 38.85190],
+      "properties": {
+        "stationTriplet": "508:CA:SNTL",
+        "state": "CA",
+        "stationId": "508",
+        "networkCode": "SNTL",
+        "name": "Hagans Meadow",
+        "shefId": "HGNC1",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "El Dorado",
+        "elevation": 7742.0,
+        "huc": "160501010302",
+        "longitude": -119.9374,
+        "latitude": 38.8519,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=508",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Hagans Meadow.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.93740, 38.85190]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.91641, 38.92431, -119.91641, 38.92431],
+      "properties": {
+        "stationTriplet": "518:CA:SNTL",
+        "state": "CA",
+        "stationId": "518",
+        "networkCode": "SNTL",
+        "name": "Heavenly Valley",
+        "shefId": "HVNC1",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "El Dorado",
+        "elevation": 8534.0,
+        "huc": "160501010302",
+        "longitude": -119.91641,
+        "latitude": 38.92431,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=518",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Heavenly Valley.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.91641, 38.92431]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.88732, 38.83652, -119.88732, 38.83652],
+      "properties": {
+        "stationTriplet": "1050:CA:SNTL",
+        "state": "CA",
+        "stationId": "1050",
+        "networkCode": "SNTL",
+        "name": "Horse Meadow",
+        "shefId": "HORC1",
+        "beginDate": "2003-10-10 00:00:00",
+        "countyName": "Alpine",
+        "elevation": 8557.0,
+        "huc": "160502010302",
+        "longitude": -119.88732,
+        "latitude": 38.83652,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1050",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Horse Meadow.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.88732, 38.83652]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.29367, 39.45269, -120.29367, 39.45269],
+      "properties": {
+        "stationTriplet": "539:CA:SNTL",
+        "state": "CA",
+        "stationId": "539",
+        "networkCode": "SNTL",
+        "name": "Independence Camp",
+        "shefId": "ICPC1",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Sierra",
+        "elevation": 6980.0,
+        "huc": "160501020102",
+        "longitude": -120.29367,
+        "latitude": 39.45269,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=539",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Independence Camp.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.29367, 39.45269]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.28226, 39.49001, -120.28226, 39.49001],
+      "properties": {
+        "stationTriplet": "540:CA:SNTL",
+        "state": "CA",
+        "stationId": "540",
+        "networkCode": "SNTL",
+        "name": "Independence Creek",
+        "shefId": "ICKC1",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Sierra",
+        "elevation": 6436.0,
+        "huc": "160501020102",
+        "longitude": -120.28226,
+        "latitude": 39.49001,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=540",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Independence Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.28226, 39.49001]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.31342, 39.42752, -120.31342, 39.42752],
+      "properties": {
+        "stationTriplet": "541:CA:SNTL",
+        "state": "CA",
+        "stationId": "541",
+        "networkCode": "SNTL",
+        "name": "Independence Lake",
+        "shefId": "ILKC1",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Nevada",
+        "elevation": 8338.0,
+        "huc": "160501020104",
+        "longitude": -120.31342,
+        "latitude": 39.42752,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=541",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Independence Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.31342, 39.42752]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.31342, 39.42752, -120.31342, 39.42752],
+      "properties": {
+        "stationTriplet": "541:CA:SNTL",
+        "state": "CA",
+        "stationId": "541",
+        "networkCode": "SNTL",
+        "name": "Independence Lake",
+        "shefId": "ILKC1",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Nevada",
+        "elevation": 8338.0,
+        "huc": "160501020104",
+        "longitude": -120.31342,
+        "latitude": 39.42752,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=541",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Independence Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.31342, 39.42752]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.61281, 38.27594, -119.61281, 38.27594],
+      "properties": {
+        "stationTriplet": "574:CA:SNTL",
+        "state": "CA",
+        "stationId": "574",
+        "networkCode": "SNTL",
+        "name": "Leavitt Lake",
+        "shefId": "LELC1",
+        "beginDate": "1989-10-01 00:00:00",
+        "countyName": "Mono",
+        "elevation": 9604.0,
+        "huc": "160503020104",
+        "longitude": -119.61281,
+        "latitude": 38.27594,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=574",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Leavitt Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.61281, 38.27594]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.55111, 38.30367, -119.55111, 38.30367],
+      "properties": {
+        "stationTriplet": "575:CA:SNTL",
+        "state": "CA",
+        "stationId": "575",
+        "networkCode": "SNTL",
+        "name": "Leavitt Meadows",
+        "shefId": "LVTC1",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Mono",
+        "elevation": 7198.0,
+        "huc": "160503020104",
+        "longitude": -119.55111,
+        "latitude": 38.30367,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=575",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Leavitt Meadows.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.55111, 38.30367]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.36572, 38.43745, -119.36572, 38.43745],
+      "properties": {
+        "stationTriplet": "587:CA:SNTL",
+        "state": "CA",
+        "stationId": "587",
+        "networkCode": "SNTL",
+        "name": "Lobdell Lake",
+        "shefId": "LOBC1",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Mono",
+        "elevation": 9249.0,
+        "huc": "160503020201",
+        "longitude": -119.36572,
+        "latitude": 38.43745,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=587",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Lobdell Lake.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.36572, 38.43745]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.60870, 38.66830, -119.60870, 38.66830],
+      "properties": {
+        "stationTriplet": "633:CA:SNTL",
+        "state": "CA",
+        "stationId": "633",
+        "networkCode": "SNTL",
+        "name": "Monitor Pass",
+        "shefId": "MNPC1",
+        "beginDate": "1990-10-01 00:00:00",
+        "countyName": "Alpine",
+        "elevation": 8306.0,
+        "huc": "160502010201",
+        "longitude": -119.6087,
+        "latitude": 38.6683,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=633",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Monitor Pass.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.60870, 38.66830]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.26576, 39.18986, -120.26576, 39.18986],
+      "properties": {
+        "stationTriplet": "784:CA:SNTL",
+        "state": "CA",
+        "stationId": "784",
+        "networkCode": "SNTL",
+        "name": "Palisades Tahoe",
+        "shefId": "SQWC1",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Placer",
+        "elevation": 8013.0,
+        "huc": "160501020202",
+        "longitude": -120.26576,
+        "latitude": 39.18986,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=784",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Palisades Tahoe.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.26576, 39.18986]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.62624, 38.50576, -119.62624, 38.50576],
+      "properties": {
+        "stationTriplet": "697:CA:SNTL",
+        "state": "CA",
+        "stationId": "697",
+        "networkCode": "SNTL",
+        "name": "Poison Flat",
+        "shefId": "XXXC1",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Alpine",
+        "elevation": 7736.0,
+        "huc": "160502010102",
+        "longitude": -119.62624,
+        "latitude": 38.50576,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=697",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Poison Flat.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.62624, 38.50576]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.13139, 38.99927, -120.13139, 38.99927],
+      "properties": {
+        "stationTriplet": "724:CA:SNTL",
+        "state": "CA",
+        "stationId": "724",
+        "networkCode": "SNTL",
+        "name": "Rubicon #2",
+        "shefId": "RUBC1",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "El Dorado",
+        "elevation": 7619.0,
+        "huc": "160501010402",
+        "longitude": -120.13139,
+        "latitude": 38.99927,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=724",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Rubicon #2.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.13139, 38.99927]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.60030, 38.31021, -119.60030, 38.31021],
+      "properties": {
+        "stationTriplet": "771:CA:SNTL",
+        "state": "CA",
+        "stationId": "771",
+        "networkCode": "SNTL",
+        "name": "Sonora Pass",
+        "shefId": "SRAC1",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Mono",
+        "elevation": 8770.0,
+        "huc": "160503020104",
+        "longitude": -119.6003,
+        "latitude": 38.31021,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=771",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Sonora Pass.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.60030, 38.31021]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.81741, 38.66627, -119.81741, 38.66627],
+      "properties": {
+        "stationTriplet": "778:CA:SNTL",
+        "state": "CA",
+        "stationId": "778",
+        "networkCode": "SNTL",
+        "name": "Spratt Creek",
+        "shefId": "SPCC1",
+        "beginDate": "1983-10-01 00:00:00",
+        "countyName": "Alpine",
+        "elevation": 6063.0,
+        "huc": "160502010107",
+        "longitude": -119.81741,
+        "latitude": 38.66627,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=778",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Spratt Creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.81741, 38.66627]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.71574, 41.98609, -120.71574, 41.98609],
+      "properties": {
+        "stationTriplet": "1258:CA:SNTL",
+        "state": "CA",
+        "stationId": "1258",
+        "networkCode": "SNTL",
+        "name": "State Line",
+        "shefId": "TATC1",
+        "beginDate": "2014-06-17 00:00:00",
+        "countyName": "Modoc",
+        "elevation": 5680.0,
+        "huc": "180102040201",
+        "longitude": -120.71574,
+        "latitude": 41.98609,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1258",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//State Line.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.71574, 41.98609]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.53522, 38.39747, -119.53522, 38.39747],
+      "properties": {
+        "stationTriplet": "1052:CA:SNTL",
+        "state": "CA",
+        "stationId": "1052",
+        "networkCode": "SNTL",
+        "name": "Summit Meadow",
+        "shefId": "SDWC1",
+        "beginDate": "2003-10-01 00:00:00",
+        "countyName": "Mono",
+        "elevation": 9313.0,
+        "huc": "160503020203",
+        "longitude": -119.53522,
+        "latitude": 38.39747,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=1052",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Summit Meadow.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.53522, 38.39747]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.15362, 39.17162, -120.15362, 39.17162],
+      "properties": {
+        "stationTriplet": "809:CA:SNTL",
+        "state": "CA",
+        "stationId": "809",
+        "networkCode": "SNTL",
+        "name": "Tahoe City Cross",
+        "shefId": "THOC1",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Placer",
+        "elevation": 6797.0,
+        "huc": "160501010101",
+        "longitude": -120.15362,
+        "latitude": 39.17162,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=809",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Tahoe City Cross.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.15362, 39.17162]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.18407, 39.30087, -120.18407, 39.30087],
+      "properties": {
+        "stationTriplet": "834:CA:SNTL",
+        "state": "CA",
+        "stationId": "834",
+        "networkCode": "SNTL",
+        "name": "Truckee #2",
+        "shefId": "TRUC1",
+        "beginDate": "1980-10-01 00:00:00",
+        "countyName": "Placer",
+        "elevation": 6509.0,
+        "huc": "160501020204",
+        "longitude": -120.18407,
+        "latitude": 39.30087,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=834",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Truckee #2.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.18407, 39.30087]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-119.23433, 38.07298, -119.23433, 38.07298],
+      "properties": {
+        "stationTriplet": "846:CA:SNTL",
+        "state": "CA",
+        "stationId": "846",
+        "networkCode": "SNTL",
+        "name": "Virginia Lakes Ridge",
+        "shefId": "VGAC1",
+        "beginDate": "1978-10-01 00:00:00",
+        "countyName": "Mono",
+        "elevation": 9400.0,
+        "huc": "160503010103",
+        "longitude": -119.23433,
+        "latitude": 38.07298,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=846",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Virginia Lakes Ridge.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.23433, 38.07298]
+      }
+    },
+    {
+      "type": "Feature",
+      "bbox": [-120.21865, 39.13545, -120.21865, 39.13545],
+      "properties": {
+        "stationTriplet": "848:CA:SNTL",
+        "state": "CA",
+        "stationId": "848",
+        "networkCode": "SNTL",
+        "name": "Ward Creek #3",
+        "shefId": "WRDC1",
+        "beginDate": "1979-10-01 00:00:00",
+        "countyName": "Placer",
+        "elevation": 6745.0,
+        "huc": "160501010403",
+        "longitude": -120.21865,
+        "latitude": 39.13545,
+        "StationUrl": "https://wcc.sc.egov.usda.gov/nwcc/site?sitenum=848",
+        "GraphUrl": "https://www.nrcs.usda.gov/Internet/WCIS/AWS_PLOTS/siteCharts/POR/WTEQ/CO//Ward Creek #3.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-120.21865, 39.13545]
+      }
+    }
+  ]
+}

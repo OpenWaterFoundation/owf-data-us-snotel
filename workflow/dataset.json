@@ -3,7 +3,7 @@
   "description": "US SNOTEL station locations.",
   "identifier": "owf-data-us-snotel",
   "landingPage": "https://data.openwaterfoundation.org/country/us/nrcs/snotel/",
-  "issued": "2022-07-26",
+  "issued": "2022-07-27",
   "keyword": [
     "point",
     "snow",
