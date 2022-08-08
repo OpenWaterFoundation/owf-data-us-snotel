@@ -13,21 +13,21 @@ historical stations may not be included in the layer.
 
 The following files can be downloaded or used directly.
 
-| **Layer File** | **Description** |
-| -- | -- |
-| [`us-snotel-stations.geojson`](us-snotel-stations.geojson) | All SNOTEL stations in the US. |
-| [`ak-snotel-stations.geojson`](ak-snotel-stations.geojson) | Alaska SNOTEL stations. |
-| [`az-snotel-stations.geojson`](az-snotel-stations.geojson) | Arizona SNOTEL stations. |
-| [`ca-snotel-stations.geojson`](ca-snotel-stations.geojson) | California SNOTEL stations. |
-| [`co-snotel-stations.geojson`](co-snotel-stations.geojson) | Colorado SNOTEL stations. |
-| [`id-snotel-stations.geojson`](id-snotel-stations.geojson) | Idaho SNOTEL stations. |
-| [`mt-snotel-stations.geojson`](mt-snotel-stations.geojson) | Montana SNOTEL stations. |
-| [`nm-snotel-stations.geojson`](nm-snotel-stations.geojson) | New Mexico SNOTEL stations. |
-| [`nv-snotel-stations.geojson`](nv-snotel-stations.geojson) | Nevada SNOTEL stations. |
-| [`or-snotel-stations.geojson`](or-snotel-stations.geojson) | Oregon SNOTEL stations. |
-| [`ut-snotel-stations.geojson`](ut-snotel-stations.geojson) | Utah SNOTEL stations. |
-| [`wa-snotel-stations.geojson`](wa-snotel-stations.geojson) | Washington SNOTEL stations. |
-| [`wy-snotel-stations.geojson`](wy-snotel-stations.geojson) | Wyoming SNOTEL stations. |
+| **Layer File** | **Description** | **View** |
+| -- | -- | -- |
+| [`us-snotel-stations.geojson`](us-snotel-stations.geojson) | All SNOTEL stations in the US. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/country/us/nrcs/snotel/us-snotel-stations.geojson) |
+| [`ak-snotel-stations.geojson`](ak-snotel-stations.geojson) | Alaska SNOTEL stations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/country/us/nrcs/snotel/ak-snotel-stations.geojson) |
+| [`az-snotel-stations.geojson`](az-snotel-stations.geojson) | Arizona SNOTEL stations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/country/us/nrcs/snotel/az-snotel-stations.geojson) |
+| [`ca-snotel-stations.geojson`](ca-snotel-stations.geojson) | California SNOTEL stations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/country/us/nrcs/snotel/ca-snotel-stations.geojson) |
+| [`co-snotel-stations.geojson`](co-snotel-stations.geojson) | Colorado SNOTEL stations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/country/us/nrcs/snotel/co-snotel-stations.geojson) |
+| [`id-snotel-stations.geojson`](id-snotel-stations.geojson) | Idaho SNOTEL stations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/country/us/nrcs/snotel/id-snotel-stations.geojson) |
+| [`mt-snotel-stations.geojson`](mt-snotel-stations.geojson) | Montana SNOTEL stations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/country/us/nrcs/snotel/mt-snotel-stations.geojson) |
+| [`nm-snotel-stations.geojson`](nm-snotel-stations.geojson) | New Mexico SNOTEL stations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/country/us/nrcs/snotel/nm-snotel-stations.geojson) |
+| [`nv-snotel-stations.geojson`](nv-snotel-stations.geojson) | Nevada SNOTEL stations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/country/us/nrcs/snotel/nv-snotel-stations.geojson) |
+| [`or-snotel-stations.geojson`](or-snotel-stations.geojson) | Oregon SNOTEL stations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/country/us/nrcs/snotel/or-snotel-stations.geojson) |
+| [`ut-snotel-stations.geojson`](ut-snotel-stations.geojson) | Utah SNOTEL stations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/country/us/nrcs/snotel/ut-snotel-stations.geojson) |
+| [`wa-snotel-stations.geojson`](wa-snotel-stations.geojson) | Washington SNOTEL stations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/country/us/nrcs/snotel/wa-snotel-stations.geojson) |
+| [`wy-snotel-stations.geojson`](wy-snotel-stations.geojson) | Wyoming SNOTEL stations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/country/us/nrcs/snotel/wy-snotel-stations.geojson) |
 
 ## Workflow ##
 
